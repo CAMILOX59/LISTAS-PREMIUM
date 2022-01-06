@@ -95,6 +95,20 @@ http://globalentertainmentec.xyz:8000/1102/1102/69509
 http://globalentertainmentec.xyz:8000/1102/1102/208368
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Comedy" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCOMEDY_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Comedy
 http://globalentertainmentec.xyz:8000/1102/1102/8405
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Action" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARACTION_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Action
+http://globalentertainmentec.xyz:8000/1102/1102/8408
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Cinema" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCINEMA_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Cinema
+http://globalentertainmentec.xyz:8000/1102/1102/8407
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Classics" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCLASSIC_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Classics
+http://globalentertainmentec.xyz:8000/1102/1102/8406
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Fun" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARFUN_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Fun
+http://globalentertainmentec.xyz:8000/1102/1102/8404
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Hits" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARHITS_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Hits
+http://globalentertainmentec.xyz:8000/1102/1102/8402
+#EXTINF:-1 tvg-id="foxlife.mx" tvg-name="PREMIUM | Star Life" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARLIFE_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Life
+http://globalentertainmentec.xyz:8000/1102/1102/8403
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Series" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARSERIES_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Series
+http://globalentertainmentec.xyz:8000/1102/1102/8401
 #EXTINF:-1 tvg-id="HBO Zone - East-US" tvg-name="DUAL | HBO XTREME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="PREMIUM  FHD",DUAL | HBO XTREME FHD
 http://globalentertainmentec.xyz:8000/1102/1102/48368
 #EXTINF:-1 tvg-id="88039" tvg-name="DUAL | HISTORY FHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_history_m.png" group-title="PREMIUM  FHD",DUAL | HISTORY FHD
