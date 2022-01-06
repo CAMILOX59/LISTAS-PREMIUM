@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Studio Universal: Regreso a Hogwarts (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEqy4buuj4hJfXvMQiwpl6GJzY9.jpg" group-title="ULTIMOS ESTRENOS",Harry Potter 20 Aniversario: Regreso a Hogwarts (2022)
+http://globalentertainmentec.xyz:8000/movie/1102/1102/222548.mp4
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="PREMIUM HD",PREMIUM HD |  ANIMAL PLANET
 http://globalentertainmentec.xyz:8000/1102/1102/14569
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PREMIUM HD",PREMIUM HD |  AXN
@@ -93,7 +95,7 @@ http://globalentertainmentec.xyz:8000/1102/1102/69503
 http://globalentertainmentec.xyz:8000/1102/1102/69509
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | Univision Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="PREMIUM HD",PREMIUM HD | Univision Telenovelas
 http://globalentertainmentec.xyz:8000/1102/1102/208368
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Comedy" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCOMEDY_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Comedy
+#EXTINF:-1 tvg-id="" tvg-name="Star Comedy" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARCOMEDY_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Comedy
 http://globalentertainmentec.xyz:8000/1102/1102/8405
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Star Action" tvg-logo="http://144.217.91.146/Logos/Clarovideo/STARACTION_t-290x163.png" group-title="PREMIUM SD",PREMIUM | Star Action
 http://globalentertainmentec.xyz:8000/1102/1102/8408
