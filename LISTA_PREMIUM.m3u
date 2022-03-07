@@ -67,7 +67,7 @@ http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30668
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30621
 #EXTINF:0 type="stream" name="BBC" group-title="NEWS",BBC
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/17305
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="AL KASS 1" group-title="DEPORTES",AL KASS 1
+#EXTINF:0 type="stream" name="AL KASS 1" group-title="DEPORTES",AL KASS 1
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/57102
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 1" group-title="NBA",NBA GAME 1
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232809
