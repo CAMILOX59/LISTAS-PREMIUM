@@ -45,9 +45,9 @@ http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30742
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30741
 #EXTINF:0 type="stream" name="WIN SPORTS+" group-title="DEPORTES", WIN SPORTS + ALTERNO 2
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/190260
-#EXTINF:0 type="stream" name="UNIVERSAL CRIME" group-title="LATINO",UNIVERSAL CRIME
+#EXTINF:0 type="stream" logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Universal_Crime.png/revision/latest?cb=20211201171732" name="UNIVERSAL CRIME" group-title="LATINO",UNIVERSAL CRIME
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30589
-#EXTINF:0 type="stream" name="UNIVERSAL COMEDY" group-title="LATINO", UNIVERSAL COMEDY
+#EXTINF:0 type="stream" logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" name="UNIVERSAL COMEDY" group-title="LATINO", UNIVERSAL COMEDY
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30587
 #EXTINF:0 type="stream" name="UNIVERSAL PREMIER" group-title="LATINO", UNIVERSAL PREMIER
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30584
