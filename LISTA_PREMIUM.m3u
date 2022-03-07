@@ -28,74 +28,86 @@ http://hdhd.tk:80/772299/772299/21884
 #EXTINF:0 type="stream" channelId="-1" name="US HBO" group-title="USA Movies" logo="https://static.epg.best/us/HBO.us.png", US HBO
 http://hdhd.tk:80/772299/772299/356
 #EXTINF:0 type="stream" name="WIN SPORTS+" group-title="DEPORTES", WIN SPORTS +
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/139331
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/139331
 #EXTINF:0 type="stream" name="WINSPORTS" group-title="DEPORTES", WIN SPORTS
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30647
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30647
 #EXTINF:0 type="stream" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png" name="beIN SPORTS 1" group-title="DEPORTES",beIN SPORTS 1  
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/149622
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/149622
 #EXTINF:0 type="stream" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png" name="beIN SPORTS 2" group-title="DEPORTES",beIN SPORTS 2
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/149623
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/149623
 #EXTINF:0 type="stream" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png" name="beIN SPORTS 3" group-title="DEPORTES",beIN SPORTS 3
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/149624
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/149624
 #EXTINF:0 type="stream" name="DIRECT TV SPORTS " group-title="DEPORTES", DIRECT TV SPORT 
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30743
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30743
 #EXTINF:0 type="stream" name="DIRECT TV SPORTS 2" group-title="DEPORTES", DIRECT TV  SPORT 2
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30742
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30742
 #EXTINF:0 type="stream" name="DIRECT TV SPORTS PLUS" group-title="DEPORTES", DIRECT TV  SPORT PLUS
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30741
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30741
 #EXTINF:0 type="stream" name="WIN SPORTS+" group-title="DEPORTES", WIN SPORTS + ALTERNO 2
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/190260
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/190260
 #EXTINF:0 type="stream" logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Universal_Crime.png/revision/latest?cb=20211201171732" name="UNIVERSAL CRIME" group-title="LATINO",UNIVERSAL CRIME
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30589
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30589
 #EXTINF:0 type="stream" logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" name="UNIVERSAL COMEDY" group-title="LATINO", UNIVERSAL COMEDY
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30587
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30587
 #EXTINF:0 type="stream" logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Universal_Premiere.png/revision/latest?cb=20220210154702" name="UNIVERSAL PREMIER" group-title="LATINO", UNIVERSAL PREMIER
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30584
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30584
 #EXTINF:0 type="stream" name="ESPN" group-title="DEPORTES",ESPN 
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30583
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30583
 #EXTINF:0 type="stream" name="ESPN 2 HD" group-title="DEPORTES",ESPN 2 HD
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30582
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30582
 #EXTINF:0 type="stream" name="ESPN 3 HD" group-title="DEPORTES",ESPN 3 HD
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30581
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30581
 #EXTINF:0 type="stream" name="ESPNPUERTO RICO CDM" group-title="EVANGELIO",PUERTO RICO CDM
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/271769
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/271769
 #EXTINF:0 type="stream" name="WARNER CHANNEL" group-title="LATINO", WARNER CHANNEL
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30674
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30674
 #EXTINF:0 type="stream" name="TNT" group-title="LATINO",TNT
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30668
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30668
+#EXTINF:0 type="stream" name="GOLDEN PLUS" group-title="LATINO",GOLDEN PLUS
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30654
 #EXTINF:0 type="stream" name="PARAMOUNT" group-title="LATINO",PARAMOUNT
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30621
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30621
+#EXTINF:0 type="stream" name="NICKELODEON" group-title="LATINO",NICKELODEON
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30617
+#EXTINF:0 type="stream" name="DISNEY CHANNEL" group-title="LATINO",DISNEY CHANNEL
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30616
+#EXTINF:0 type="stream" name="CARTOON NETWORK" group-title="LATINO",CARTOON NETWORK
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30614
+#EXTINF:0 type="stream" name="NICK JR" group-title="LATINO",NICK JR
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30618
+#EXTINF:0 type="stream" name="DISNEY XD" group-title="LATINO",DISNEY XD
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/30611
 #EXTINF:0 type="stream" name="BBC" group-title="NEWS",BBC
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/17305
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/17305
 #EXTINF:0 type="stream" name="AL KASS 1" group-title="DEPORTES",AL KASS 1
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/57102
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/57102
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 1" group-title="NBA",NBA GAME 1
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232809
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/232809
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 2" group-title="NBA",NBA GAME 2
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232810
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/232810
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 3" group-title="NBA",NBA GAME 3
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232811
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/232811
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 4" group-title="NBA",NBA GAME 4
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232812
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/232812
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 5" group-title="NBA",NBA GAME 5
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232813
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/232813
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 6" group-title="NBA",NBA GAME 6
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232814
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/232814
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 7" group-title="NBA",NBA GAME 7
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/233034
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/233034
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 8" group-title="NBA",NBA GAME 8
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/234139.
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/234139.
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 9" group-title="NBA",NBA GAME 9
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/234141
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/234141
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 10" group-title="NBA",NBA GAME 10
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/234142
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/234142
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 11" group-title="NBA",NBA GAME 11
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/234143
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/234143
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 12" group-title="NBA",NBA GAME 12
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/238595
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/238595
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 13" group-title="NBA",NBA GAME 13
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/238596
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/238596
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 14" group-title="NBA",NBA GAME 14
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/238597
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/238597
 #EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 15" group-title="NBA",NBA GAME 15
-http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/238598
+http://tptv.cz:80/CA7DF4D60F13235/fARB4Qm8yW/238598
