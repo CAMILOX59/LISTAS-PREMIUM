@@ -67,35 +67,35 @@ http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30668
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/30621
 #EXTINF:0 type="stream" name="BBC" group-title="NEWS",BBC
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/17305
-#EXTINF:0 type="stream" name="AL KASS 1" group-title="DEPORTES",AL KASS 1
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="AL KASS 1" group-title="DEPORTES",AL KASS 1
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/57102
-#EXTINF:0 type="stream" name="NBA GAME 1" group-title="NBA",NBA GAME 1
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 1" group-title="NBA",NBA GAME 1
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232809
-#EXTINF:0 type="stream" name="NBA GAME 2" group-title="NBA",NBA GAME 2
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 2" group-title="NBA",NBA GAME 2
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232810
-#EXTINF:0 type="stream" name="NBA GAME 3" group-title="NBA",NBA GAME 3
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 3" group-title="NBA",NBA GAME 3
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232811
-#EXTINF:0 type="stream" name="NBA GAME 4" group-title="NBA",NBA GAME 4
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 4" group-title="NBA",NBA GAME 4
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232812
-#EXTINF:0 type="stream" name="NBA GAME 5" group-title="NBA",NBA GAME 5
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 5" group-title="NBA",NBA GAME 5
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232813
-#EXTINF:0 type="stream" name="NBA GAME 6" group-title="NBA",NBA GAME 6
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 6" group-title="NBA",NBA GAME 6
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/232814
-#EXTINF:0 type="stream" name="NBA GAME 7" group-title="NBA",NBA GAME 7
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 7" group-title="NBA",NBA GAME 7
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/233034
-#EXTINF:0 type="stream" name="NBA GAME 8" group-title="NBA",NBA GAME 8
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 8" group-title="NBA",NBA GAME 8
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/234139.
-#EXTINF:0 type="stream" name="NBA GAME 9" group-title="NBA",NBA GAME 9
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 9" group-title="NBA",NBA GAME 9
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/234141
-#EXTINF:0 type="stream" name="NBA GAME 10" group-title="NBA",NBA GAME 10
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 10" group-title="NBA",NBA GAME 10
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/234142
-#EXTINF:0 type="stream" name="NBA GAME 11" group-title="NBA",NBA GAME 11
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 11" group-title="NBA",NBA GAME 11
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/234143
-#EXTINF:0 type="stream" name="NBA GAME 12" group-title="NBA",NBA GAME 12
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 12" group-title="NBA",NBA GAME 12
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/238595
-#EXTINF:0 type="stream" name="NBA GAME 13" group-title="NBA",NBA GAME 13
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 13" group-title="NBA",NBA GAME 13
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/238596
-#EXTINF:0 type="stream" name="NBA GAME 14" group-title="NBA",NBA GAME 14
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 14" group-title="NBA",NBA GAME 14
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/238597
-#EXTINF:0 type="stream" name="NBA GAME 15" group-title="NBA",NBA GAME 15
+#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 15" group-title="NBA",NBA GAME 15
 http://tptv.cz:80/CA7DF4D60F13235/AiuQhphizV/238598
