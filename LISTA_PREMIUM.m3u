@@ -1,113 +1,534 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="4773" name="Latin CO Caracol FHD" group-title="Colombia" tvg-country="Co", Caracol
-http://hdhd.tk:80/772299/772299/5942
-#EXTINF:0 type="stream" channelId="3783" name="Latin CO RCN" group-title="Colombia" tvg-country="Co", RCN
-http://hdhd.tk:80/772299/772299/5950
-#EXTINF:0 type="stream" channelId="1052" name="Latino: TNT HD" group-title="Latino 1" tvg-country="Co", TNT
-http://hdhd.tk:80/772299/772299/24309
-#EXTINF:0 type="stream" channelId="1719" name="Latino: Paramount HD" group-title="Latino 1" tvg-country="Co", Paramount
-http://hdhd.tk:80/772299/772299/24322
-#EXTINF:0 type="stream" channelId="50" name="Latino: Animal Planet HD" group-title="Latino 1" tvg-country="Co", Animal Planet
-http://hdhd.tk:80/772299/772299/24245
-#EXTINF:0 type="stream" channelId="1330" name="Latino: HBO HD" group-title="Latino 1", HBO HD
-http://hdhd.tk:80/772299/772299/24338
-#EXTINF:0 type="stream" channelId="935" name="Latino: HBO2 HD" group-title="Latino 1", HBO2 HD
-http://hdhd.tk:80/772299/772299/24339
-#EXTINF:0 type="stream" channelId="2584" name="Latino: HBO Family HD" group-title="Latino 1", HBO Family HD
-http://hdhd.tk:80/772299/772299/24340
-#EXTINF:0 type="stream" channelId="2585" name="Latino: HBO Plus HD" group-title="Latino 1", HBO Plus HD
-http://hdhd.tk:80/772299/772299/24341
-#EXTINF:0 type="stream" channelId="-1" name="UK: Sky Sport Premier League FHD" group-title="UK Sports", UK: Sky Sport Premier League FHD
-http://hdhd.tk:80/772299/772299/26346
-#EXTINF:0 type="stream" channelId="-1" name="ES beIN LA Liga FHD  (P)" group-title="Spain", ES beIN LA Liga FHD  (P)
-http://hdhd.tk:80/772299/772299/22487
-#EXTINF:0 type="stream" channelId="-1" name="ES beINSport LaLiga HD  (P)" group-title="Spain", ES beINSport LaLiga HD  (P)
-http://hdhd.tk:80/772299/772299/22492
-#EXTINF:0 type="stream" channelId="-1" name="USA: FOX 7 Miami (WSVN)" group-title="USA FOX (Local)" tvg-country="us", FOX 7 Miami (WSVN)
-http://hdhd.tk:80/772299/772299/21884
-#EXTINF:0 type="stream" channelId="-1" name="US HBO" group-title="USA Movies" logo="https://static.epg.best/us/HBO.us.png", US HBO
-http://hdhd.tk:80/772299/772299/356
-#EXTINF:0 type="stream" name="WIN SPORTS+" group-title="DEPORTES", WIN SPORTS +
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/139331
-#EXTINF:0 type="stream" name="WINSPORTS" group-title="DEPORTES", WIN SPORTS
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30647
-#EXTINF:0 type="stream" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png" name="beIN SPORTS 1" group-title="DEPORTES",beIN SPORTS 1  
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/149622
-#EXTINF:0 type="stream" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png" name="beIN SPORTS 2" group-title="DEPORTES",beIN SPORTS 2
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/149623
-#EXTINF:0 type="stream" logo="https://static.epg.best/ca/beINSportsGlobal.ca.png" name="beIN SPORTS 3" group-title="DEPORTES",beIN SPORTS 3
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/149624
-#EXTINF:0 type="stream" name="DIRECT TV SPORTS " group-title="DEPORTES", DIRECT TV SPORT 
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30743
-#EXTINF:0 type="stream" name="DIRECT TV SPORTS 2" group-title="DEPORTES", DIRECT TV  SPORT 2
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30742
-#EXTINF:0 type="stream" name="DIRECT TV SPORTS PLUS" group-title="DEPORTES", DIRECT TV  SPORT PLUS
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30741
-#EXTINF:0 type="stream" name="WIN SPORTS+" group-title="DEPORTES", WIN SPORTS + ALTERNO 2
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/190260
-#EXTINF:0 type="stream" logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Universal_Crime.png/revision/latest?cb=20211201171732" name="UNIVERSAL CRIME" group-title="LATINO",UNIVERSAL CRIME
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30589
-#EXTINF:0 type="stream" logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" name="UNIVERSAL COMEDY" group-title="LATINO", UNIVERSAL COMEDY
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30587
-#EXTINF:0 type="stream" logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Universal_Premiere.png/revision/latest?cb=20220210154702" name="UNIVERSAL PREMIER" group-title="LATINO", UNIVERSAL PREMIER
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30584
-#EXTINF:0 type="stream" name="ESPN" group-title="DEPORTES",ESPN 
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30583
-#EXTINF:0 type="stream" name="ESPN 2 HD" group-title="DEPORTES",ESPN 2 HD
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30582
-#EXTINF:0 type="stream" name="ESPN 3 HD" group-title="DEPORTES",ESPN 3 HD
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30581
-#EXTINF:0 type="stream" name="ESPNPUERTO RICO CDM" group-title="EVANGELIO",PUERTO RICO CDM
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/271769
-#EXTINF:0 type="stream" name="WARNER CHANNEL" group-title="LATINO", WARNER CHANNEL
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30674
-#EXTINF:0 type="stream" name="TNT" group-title="LATINO",TNT
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30668
-#EXTINF:0 type="stream" name="GOLDEN PLUS" group-title="LATINO",GOLDEN PLUS
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30654
-#EXTINF:0 type="stream" name="PARAMOUNT" group-title="LATINO",PARAMOUNT
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30621
-#EXTINF:0 type="stream" name="NICKELODEON" group-title="LATINO",NICKELODEON
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30617
-#EXTINF:0 type="stream" name="DISNEY CHANNEL" group-title="LATINO",DISNEY CHANNEL
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30616
-#EXTINF:0 type="stream" name="CARTOON NETWORK" group-title="LATINO",CARTOON NETWORK
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30614
-#EXTINF:0 type="stream" name="NICK JR" group-title="LATINO",NICK JR
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30618
-#EXTINF:0 type="stream" name="DISNEY XD" group-title="LATINO",DISNEY XD
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/30611
-#EXTINF:0 type="stream" name="BBC" group-title="NEWS",BBC
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/17305
-#EXTINF:0 type="stream" name="AL KASS 1" group-title="DEPORTES",AL KASS 1
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/57102
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 1" group-title="NBA",NBA GAME 1
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/232809
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 2" group-title="NBA",NBA GAME 2
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/232810
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 3" group-title="NBA",NBA GAME 3
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/232811
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 4" group-title="NBA",NBA GAME 4
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/232812
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 5" group-title="NBA",NBA GAME 5
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/232813
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 6" group-title="NBA",NBA GAME 6
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/232814
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 7" group-title="NBA",NBA GAME 7
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/233034
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 8" group-title="NBA",NBA GAME 8
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/234139.
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 9" group-title="NBA",NBA GAME 9
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/234141
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 10" group-title="NBA",NBA GAME 10
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/234142
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 11" group-title="NBA",NBA GAME 11
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/234143
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 12" group-title="NBA",NBA GAME 12
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/238595
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 13" group-title="NBA",NBA GAME 13
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/238596
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 14" group-title="NBA",NBA GAME 14
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/238597
-#EXTINF:0 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 15" group-title="NBA",NBA GAME 15
-http://tptv.cz:80/CA7DF4D60F13235/FniMFhcEwm/238598
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CO - CARACOL" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/CaracolTV.png" group-title="AM | LATINO",CO - CARACOL
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30706
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="CO - CARACOL HD2" tvg-logo="http://logo.panel.cx/logo/LATINO/Caracol_HD2.png" group-title="AM | LATINO",CO - CARACOL HD2
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/69187
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="CO - RCN" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/RCN.png" group-title="AM | LATINO",CO - RCN
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30703
+#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="CO - RCN HD2" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/RCNHD2.png" group-title="AM | LATINO",CO - RCN HD2
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30702
+#EXTINF:-1 tvg-id="nuestratelenoticias24.co" tvg-name="CO - NTN24 ᵛᶦᵖ ◉ " tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/NTN24tv.png" group-title="AM | LATINO",CO - NTN24 ᵛᶦᵖ ◉ 
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190246
+#EXTINF:-1 tvg-id="eltiempo.co" tvg-name="CO - El Tiempo ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/eltiempo.png" group-title="AM | LATINO",CO - El Tiempo ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190247
+#EXTINF:-1 tvg-id="" tvg-name="CO - RED PLUS ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/Red-Noticias.png" group-title="AM | LATINO",CO - RED PLUS ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/192831
+#EXTINF:-1 tvg-id="" tvg-name="CO - ZOOM ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/Zoom.png" group-title="AM | LATINO",CO - ZOOM ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/192832
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="CO - Winsports ᵛᶦᵖ ◉ " tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/WinSports.png" group-title="AM | LATINO",CO - Winsports ᵛᶦᵖ ◉ 
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190259
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO - Winsports Plus ᵛᶦᵖ ◉ " tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/WinSportsPlus.png" group-title="DEPORTES",CO - Winsports Plus ᵛᶦᵖ ◉ 
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190260
+#EXTINF:-1 tvg-id="cosmovision.co" tvg-name="CO - COSMOVISION ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/Cosmovisin.png" group-title="AM | LATINO",CO - COSMOVISION ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/192833
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="CO - Canal Uno ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/canal1.png" group-title="AM | LATINO",CO - Canal Uno ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190248
+#EXTINF:-1 tvg-id="citytv.co" tvg-name="CO - CityTV ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/CITYTVVIP.png" group-title="AM | LATINO",CO - CityTV ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190249
+#EXTINF:-1 tvg-id="teleantioquia.co" tvg-name="CO - Teleantioquia ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/Teleantioquia.png" group-title="AM | LATINO",CO - Teleantioquia ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190251
+#EXTINF:-1 tvg-id="telecaribe.co" tvg-name="CO - Telecaribe ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/telecaribe.png" group-title="AM | LATINO",CO - Telecaribe ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190252
+#EXTINF:-1 tvg-id="telecafe.co" tvg-name="CO - TELECAFE ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/Telecafe.png" group-title="AM | LATINO",CO - TELECAFE ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/192834
+#EXTINF:-1 tvg-id="senal.co" tvg-name="CO -  Señal Colombia ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/Se%C3%B1al.png" group-title="AM | LATINO",CO -  Señal Colombia ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/191361
+#EXTINF:-1 tvg-id="capitaltv.pe" tvg-name="CO - CAPITAL HD ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/PERU/Canal_Capital.png" group-title="AM | LATINO",CO - CAPITAL HD ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/187640
+#EXTINF:-1 tvg-id="canalcapital.co" tvg-name="CO - Canal Capital ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/Canal_Capital.png" group-title="AM | LATINO",CO - Canal Capital ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190255
+#EXTINF:-1 tvg-id="canalinstitucional.co" tvg-name="CO - Canal Institucional ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/canalinstitucional.png" group-title="AM | LATINO",CO - Canal Institucional ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190256
+#EXTINF:-1 tvg-id="" tvg-name="CO - La Kalle ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/LaKalle.png" group-title="AM | LATINO",CO - La Kalle ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190258
+#EXTINF:-1 tvg-id="telemedellin.co" tvg-name="CO - Telemedellin ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/TELEMEDELLIN.png" group-title="AM | LATINO",CO - Telemedellin ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190253
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="CO - Telepacifico ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/Telepac%C3%ADfico.png" group-title="AM | LATINO",CO - Telepacifico ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190254
+#EXTINF:-1 tvg-id="" tvg-name="CO - TeleVid ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/televid.png" group-title="AM | LATINO",CO - TeleVid ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190257
+#EXTINF:-1 tvg-id="" tvg-name="CO - TV AGRO ᵛᶦᵖ" tvg-logo="http://logo.panel.cx/logo/LATINO/TV_Agro.png" group-title="AM | LATINO",CO - TV AGRO ᵛᶦᵖ
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/213027
+#EXTINF:-1 tvg-id="cablenoticias.co" tvg-name="CO - CABLENOTICIAS" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/CABLENOTICIAS.png" group-title="AM | LATINO",CO - CABLENOTICIAS
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30708
+#EXTINF:-1 tvg-id="citytv.co" tvg-name="CO - CITY TV" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/CITYTV.png" group-title="AM | LATINO",CO - CITY TV
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30705
+#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="CO - RCN NOVELAS" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/RCNNOVELAS.png" group-title="AM | LATINO",CO - RCN NOVELAS
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30701
+#EXTINF:-1 tvg-id="senal.co" tvg-name="CO - SENAL COLOMBIA" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/SENALCOLOMBIA.png" group-title="AM | LATINO",CO - SENAL COLOMBIA
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30700
+#EXTINF:-1 tvg-id="telemedellin.co" tvg-name="CO - TELE MEDELLIN" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/TELEMEDELLIN.png" group-title="AM | LATINO",CO - TELE MEDELLIN
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30699
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="CO - TELEPACIFICO" tvg-logo="http://logo.panel.cx/logo/LATINO/Telepac%C3%ADfico.png" group-title="AM | LATINO",CO - TELEPACIFICO
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30697
+#EXTINF:-1 tvg-id="canaltrece.co" tvg-name="CO - TRECE" tvg-logo="http://logo.panel.cx/logo/LATINO/Trece2017.png" group-title="AM | LATINO",CO - TRECE
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/69190
+#EXTINF:-1 tvg-id="calitv.co" tvg-name="CO - Cali TV" tvg-logo="http://logo.panel.cx/logo/LATINO/calitv.png" group-title="AM | LATINO",CO - Cali TV
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/79020
+#EXTINF:-1 tvg-id="calitv.co" tvg-name="CO - Cali TV" tvg-logo="http://logo.panel.cx/logo/LATINO/calitv.png" group-title="AM | LATINO",CO - Cali TV
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/79021
+#EXTINF:-1 tvg-id="" tvg-name="CO - Mundo Mas" tvg-logo="http://logo.panel.cx/logo/LATINO/Mundomax_tv_logo.png" group-title="AM | LATINO",CO - Mundo Mas
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/79033
+#EXTINF:-1 tvg-id="" tvg-name="CO - Suram" tvg-logo="http://logo.panel.cx/logo/LATINO/suramtv.png" group-title="AM | LATINO",CO - Suram
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/79036
+#EXTINF:-1 tvg-id="telemedellin.co" tvg-name="CO - Tele Medellin" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/TELEMEDELLIN.png" group-title="AM | LATINO",CO - Tele Medellin
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/79037
+#EXTINF:-1 tvg-id="telecafe.co" tvg-name="CO - Telecafe" tvg-logo="http://logo.panel.cx/logo/LATINO/telecafetv.png" group-title="AM | LATINO",CO - Telecafe
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/79040
+#EXTINF:-1 tvg-id="telecaribe.co" tvg-name="CO - Telecaribe" tvg-logo="http://logo.panel.cx/logo/LATINO/telecaribe.png" group-title="AM | LATINO",CO - Telecaribe
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/79041
+#EXTINF:-1 tvg-id="" tvg-name="CO - Teleislas" tvg-logo="http://logo.panel.cx/logo/LATINO/Teleislas.png" group-title="AM | LATINO",CO - Teleislas
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/79043
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - WIN SPORT+" tvg-logo="http://logo.panel.cx/logo/LATINO/WINSPORT.png" group-title="DEPORTES",LATINO - WIN SPORT+
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/139331
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - WIN SPORT HD" tvg-logo="http://logo.panel.cx/logo/LATINO/WINSPORT.png" group-title="DEPORTES",LATINO - WIN SPORT HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30647
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORTS 1 ENGLISH UHD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-1UHDENG.png" group-title="DEPORTES",BEIN SPORTS 1 ENGLISH UHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/149622
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORTS 2 ENGLISH UHD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-2UHDENG.png" group-title="DEPORTES",BEIN SPORTS 2 ENGLISH UHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/149623
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="BEIN SPORTS 3 ENGLISH UHD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-3UHDENG.png" group-title="DEPORTES",BEIN SPORTS 3 ENGLISH UHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/149624
+#EXTINF:-1 type="stream" name="DIRECT TV SPORTS " group-title="DEPORTES", DIRECT TV SPORT 
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30743
+#EXTINF:-1 type="stream" name="DIRECT TV SPORTS 2" group-title="DEPORTES", DIRECT TV  SPORT 2
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30742
+#EXTINF:-1 type="stream" name="DIRECT TV SPORTS PLUS" group-title="DEPORTES", DIRECT TV  SPORT PLUS
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30741
+#EXTINF:-1 type="stream" name="WIN SPORTS+" group-title="DEPORTES", WIN SPORTS + ALTERNO 2
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/190260
+#EXTINF:-1 type="stream" logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Universal_Crime.png/revision/latest?cb=20211201171732" name="STAR CHANNEL" group-title="AM | LATINO",STAR CHANNEL
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30589
+#EXTINF:-1 type="stream" logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" name="UNIVERSAL COMEDY" group-title="AM | LATINO", UNIVERSAL COMEDY
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30587
+#EXTINF:-1 type="stream" logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Universal_Premiere.png/revision/latest?cb=20220210154702" name="UNIVERSAL PREMIERE" group-title="AM | LATINO", UNIVERSAL PREMIERE
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/30584
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="ARG - ESPN" tvg-logo="http://logo.panel.cx/logo/LATINO/ESPN.png" group-title="DEPORTES",ARG - ESPN
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30737
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ARG - ESPN 2" tvg-logo="http://logo.panel.cx/logo/LATINO/ESPN2.png" group-title="DEPORTES",ARG - ESPN 2
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30736
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ARG - ESPN 3" tvg-logo="http://logo.panel.cx/logo/LATINO/ESPN3.png" group-title="DEPORTES",ARG - ESPN 3
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30735
+#EXTINF:-1 tvg-id="alkassone.qa" tvg-name="AL KASS 1 HD" tvg-logo="http://logo.panel.cx/logo/BEIN/ALKASS/ALKASS1.png" group-title="DEPORTES",AL KASS 1 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/57102
+#EXTINF:-1 tvg-id="alkasstwo.qa" tvg-name="AL KASS 2 HD" tvg-logo="http://logo.panel.cx/logo/BEIN/ALKASS/ALKASS2.png" group-title="DEPORTES",AL KASS 2 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/57103
+#EXTINF:-1 tvg-id="alkassthree.qa" tvg-name="AL KASS 3 HD" tvg-logo="http://logo.panel.cx/logo/BEIN/ALKASS/ALKASS3.png" group-title="DEPORTES",AL KASS 3 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/263853
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - HBO" tvg-logo="http://logo.panel.cx/logo/LATINO/HBOTV.png" group-title="AM | LATINO",LATINO - HBO
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30601
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - HBO 2" tvg-logo="http://logo.panel.cx/logo/LATINO/HBOTV2.png" group-title="AM | LATINO",LATINO - HBO 2
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30600
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - HBO FAMILY" tvg-logo="http://logo.panel.cx/logo/LATINO/HBOFAMILY.png" group-title="AM | LATINO",LATINO - HBO FAMILY
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30599
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - HBO PLUS" tvg-logo="http://logo.panel.cx/logo/LATINO/HBOPLUS.png" group-title="AM | LATINO",LATINO - HBO PLUS
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30598
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - HBO SIGNATURE" tvg-logo="http://logo.panel.cx/logo/LATINO/HBOSIGNATURETV.png" group-title="AM | LATINO",LATINO - HBO SIGNATURE
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30597
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - HBO ESTE" tvg-logo="http://logo.panel.cx/logo/LATINO/HBOTV.png" group-title="AM | LATINO",LATINO - HBO ESTE
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/69064
+#EXTINF:-1 type="stream" name="PUERTO RICO CDM" group-title="EVANGELIO",PUERTO RICO CDM
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/271769
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - WARNER CHANNEL" tvg-logo="http://logo.panel.cx/logo/LATINO/WARNERCHANNEL.png" group-title="AM | LATINO",LATINO - WARNER CHANNEL
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30674
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - TNT" tvg-logo="http://logo.panel.cx/logo/LATINO/TNT.png" group-title="AM | LATINO",LATINO - TNT
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30668
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - GOLDEN" tvg-logo="http://logo.panel.cx/logo/LATINO/GOLDEN.png" group-title="AM | LATINO",LATINO - GOLDEN
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30654
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - PARAMOUNT" tvg-logo="http://logo.panel.cx/logo/LATINO/PARAMOUNTTV.png" group-title="AM | LATINO",LATINO - PARAMOUNT
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30621
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - DISNEY CHANNEL." tvg-logo="http://logo.panel.cx/logo/LATINO/DISNEYCHANNEL.png" group-title="AM | LATINO",LATINO - DISNEY CHANNEL.
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30616
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - COMEDY CENTRAL" tvg-logo="http://logo.panel.cx/logo/LATINO/COMEDYCENTRALTV.png" group-title="AM | LATINO",LATINO - COMEDY CENTRAL
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30615
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - CARTOON NETWORK." tvg-logo="http://logo.panel.cx/logo/LATINO/CARTOONNETWORK.png" group-title="AM | LATINO",LATINO - CARTOON NETWORK.
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30614
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - BOOMERANG" tvg-logo="http://logo.panel.cx/logo/LATINO/BOOMERANG.png" group-title="AM | LATINO",LATINO - BOOMERANG
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30613
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - DISNEY JR" tvg-logo="http://logo.panel.cx/logo/LATINO/DISNEYJR.png" group-title="AM | LATINO",LATINO - DISNEY JR
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30612
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - DISNEY XD." tvg-logo="http://logo.panel.cx/logo/LATINO/DISNEYCHANNEL.png" group-title="AM | LATINO",LATINO - DISNEY XD.
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/30611
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/69423
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK - BBC NEWS HD ◉" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="NEWS",UK - BBC NEWS HD ◉
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/17400
+#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="UK - BBC WORLD NEWS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" group-title="NEWS",UK - BBC WORLD NEWS
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/17347
+#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="UK - BLOOMBERG HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/BLOOMBERG-1.png" group-title="NEWS",UK - BLOOMBERG HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/17698
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="UK - CNBC" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CNBC.png" group-title="NEWS",UK - CNBC
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/17693
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK - CNN HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/CNN.png" group-title="NEWS",UK - CNN HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/17390
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK - EURO NEWS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/EURONEWS-1.png" group-title="NEWS",UK - EURO NEWS
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/17694
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="UK - FOX NEWS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/FOX.png" group-title="NEWS",UK - FOX NEWS
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/17356
+#EXTINF:-1 tvg-id="france24.uk" tvg-name="UK - FRANCE 24" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/FRANCE24.png" group-title="NEWS",UK - FRANCE 24
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/17361
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT AMERICA" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/RTNEWS-1.png" group-title="NEWS",UK - RT AMERICA
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/17369
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT DOCUMENTRY" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/RTNEWS-1.png" group-title="NEWS",UK - RT DOCUMENTRY
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/17391
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="UK - RT NEWS" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/RTNEWS-1.png" group-title="NEWS",UK - RT NEWS
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/17398
+#EXTINF:-1 tvg-id="rt.uk" tvg-name="UK - RT UK" tvg-logo="http://logo.panel.cx/logo/EUROPE/UK/RTNEWS-1.png" group-title="NEWS",UK - RT UK
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/17692
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK - SKY NEWS HD" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/SKY-NEWS.png" group-title="NEWS",UK - SKY NEWS HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/41680
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 1" group-title="NBA",NBA GAME 1
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/232809
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 2" group-title="NBA",NBA GAME 2
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/232810
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 3" group-title="NBA",NBA GAME 3
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/232811
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 4" group-title="NBA",NBA GAME 4
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/232812
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 5" group-title="NBA",NBA GAME 5
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/232813
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 6" group-title="NBA",NBA GAME 6
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/232814
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 7" group-title="NBA",NBA GAME 7
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/233034
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 8" group-title="NBA",NBA GAME 8
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/234139.
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 9" group-title="NBA",NBA GAME 9
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/234141
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 10" group-title="NBA",NBA GAME 10
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/234142
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 11" group-title="NBA",NBA GAME 11
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/234143
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 12" group-title="NBA",NBA GAME 12
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/238595
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 13" group-title="NBA",NBA GAME 13
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/238596
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 14" group-title="NBA",NBA GAME 14
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/238597
+#EXTINF:-1 type="stream" tvg-logo="https://static.epg.best/us/NBATV.us.png" name="NBA GAME 15" group-title="NBA",NBA GAME 15
+http://magnum-ott.net:80/CA7DF4D60F13235/k4i60W1ekq/238598
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BABES TV HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BABES TV HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63799
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BALKAN EROTIC" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BALKAN EROTIC
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63725
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BANG U" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BANG U
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63798
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BANGERZ" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BANGERZ
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63797
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BARELY LEGAL" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BARELY LEGAL
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63796
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BEATE UHSE.TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BEATE UHSE.TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63795
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BLUE HUSTLER" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BLUE HUSTLER
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63794
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BLUE HUSTLER EUROPE" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BLUE HUSTLER EUROPE
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115571
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BRAZZERS" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BRAZZERS
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63793
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BRAZZERS TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BRAZZERS TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63792
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BRAZZERS TV EUROPE" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BRAZZERS TV EUROPE
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63791
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - CANDY HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - CANDY HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63790
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - CANDYMAN" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - CANDYMAN
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63789
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - DORCEL HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - DORCEL HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63788
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - DORCEL XXX HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - DORCEL XXX HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63787
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - DUSK!" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - DUSK!
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63785
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - EMANUELLE" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - EMANUELLE
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63784
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - EROX HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - EROX HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63783
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - EROXXX HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - EROXXX HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63782
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - EVIL ANGEL HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - EVIL ANGEL HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63781
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - EXTASY" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - EXTASY
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63780
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - EXTREM" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - EXTREM
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63779
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - EXXXOTICA" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - EXXXOTICA
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63778
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FASHION TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FASHION TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115570
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FAST BOYZ" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FAST BOYZ
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115575
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FREE X TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FREE X TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115501
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FREE X TV 1" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FREE X TV 1
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63776
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FRENCH LOVER" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FRENCH LOVER
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63774
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PINKO CLUB 2" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PINKO CLUB 2
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63773
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - HOT PLEASURE" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - HOT PLEASURE
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63772
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - HOT TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - HOT TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63771
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - HUSTLER HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - HUSTLER HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63805
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - HUSTLER TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - HUSTLER TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63770
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - JASMIN TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - JASMIN TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115507
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - LEO TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - LEO TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63768
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - LESBIAN AFFAIR" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - LESBIAN AFFAIR
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63767
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - MAN-X" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - MAN-X
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63766
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - MEIDEN VAN HOLLAND HARD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - MEIDEN VAN HOLLAND HARD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63765
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - MILF TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - MILF TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63764
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - NET XX" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - NET XX
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63763
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - NUART TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - NUART TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63762
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - OLDTIMER" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - OLDTIMER
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63760
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - P HD PRIVATE" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - P HD PRIVATE
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115577
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PASSIE XXX" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PASSIE XXX
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115517
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PASSION XXX" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PASSION XXX
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63759
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PENTHOUSE BLACK" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PENTHOUSE BLACK
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63802
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PENTHOUSE BLACK" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PENTHOUSE BLACK
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115477
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PINK EROTIC" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PINK EROTIC
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115560
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PINK EROTIC 2" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PINK EROTIC 2
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115561
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PINK EROTIC 3" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PINK EROTIC 3
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115562
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PINK EROTIC 4" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PINK EROTIC 4
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115563
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PINK EROTIC 5" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PINK EROTIC 5
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115564
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PINK EROTIC 6" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PINK EROTIC 6
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115565
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PINK EROTIC 7" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PINK EROTIC 7
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/115566
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PINK O TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PINK O TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63757
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PLAYBOY" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PLAYBOY
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63756
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PLAYBOY EUROPE" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PLAYBOY EUROPE
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63755
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PLAYHOUSE" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PLAYHOUSE
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63754
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PRIVATE TV HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PRIVATE TV HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63800
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PRIVE TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PRIVE TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63753
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - REALITY KINGS" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - REALITY KINGS
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63752
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - RED XXX" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - RED XXX
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63751
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - REDLIGHT HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - REDLIGHT HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63750
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - RUSSIAN NIGHT" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - RUSSIAN NIGHT
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63749
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - CENT & CENTO" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - CENT & CENTO
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63747
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SEXTREME TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SEXTREME TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63745
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SEXTREME" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SEXTREME
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63744
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SEXY HOT" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SEXY HOT
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63743
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - STARS XXX HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - STARS XXX HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63742
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SUPER ONE HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SUPER ONE HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63741
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - TABOO" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - TABOO
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63740
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - VENUS TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - VENUS TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63739
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - VIVID RED HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - VIVID RED HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63738
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - VIVID TV EUROPE" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - VIVID TV EUROPE
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63737
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - X BIZARRE" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - X BIZARRE
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63736
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - X BUNGA BUNGA" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - X BUNGA BUNGA
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63735
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - X DESIRE" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - X DESIRE
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63734
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - XXL" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - XXL
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63730
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - XY MAX HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - XY MAX HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63729
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - XY MIX HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - XY MIX HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63728
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - XY PLUS HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - XY PLUS HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63727
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - ZEST TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - ZEST TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/63726
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PENTHOUSE QUICKIES HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PENTHOUSE QUICKIES HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259316
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PENTHOUSE GOLD HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PENTHOUSE GOLD HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259317
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SCT CLASSIC" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SCT CLASSIC
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259318
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SUPER ONE HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SUPER ONE HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259319
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - TABOO" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - TABOO
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259320
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - EXTREME" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - EXTREME
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259321
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - EXX EXOTICA" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - EXX EXOTICA
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259322
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BLUE HUSTLER" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BLUE HUSTLER
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259323
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - EMANUELLE" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - EMANUELLE
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259325
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FAP TV Anal" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FAP TV Anal
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259344
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FAP TV BBW" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FAP TV BBW
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259348
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FAP TV Trans" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FAP TV Trans
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259349
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FAP TV Lesbian" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FAP TV Lesbian
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259350
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Tushy 2 TV FHD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Tushy 2 TV FHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259351
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - XY MIX HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - XY MIX HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259352
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PORSTAR" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PORSTAR
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259356
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Miami TV HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Miami TV HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259357
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Destiny 2 TV +18 HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Destiny 2 TV +18 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259358
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Casting Couch FHD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Casting Couch FHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259359
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Elegant RAW FHD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Elegant RAW FHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259360
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Alba XXX HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Alba XXX HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259361
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - MILF 2" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - MILF 2
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259362
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - MILF 3" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - MILF 3
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259363
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Mature 2" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Mature 2
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259364
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Red XXX" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Red XXX
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259365
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Big Tits 3" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Big Tits 3
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259366
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SEXTREME" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SEXTREME
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259368
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Visit-X TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Visit-X TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259371
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Cuckold" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Cuckold
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259372
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BangBros UHD 4K" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BangBros UHD 4K
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259373
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Perv Mom Net XX HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Perv Mom Net XX HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259374
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Max XXX 2 HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Max XXX 2 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259375
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Day With A Pornstar FHD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Day With A Pornstar FHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259376
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Blacked Raw HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Blacked Raw HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259377
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Deeper FHD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Deeper FHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259378
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PinkO Club HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PinkO Club HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259379
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - AssParade FHD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - AssParade FHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259380
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Fake Taxi FHD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Fake Taxi FHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259381
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Hot Wife HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Hot Wife HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259382
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Pure Taboo FHD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Pure Taboo FHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259383
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - O-la-la" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - O-la-la
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259384
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Шалун" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Шалун
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259385
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - ОХ-АХ HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - ОХ-АХ HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259386
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Sct HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Sct HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259387
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Sext6Senso" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Sext6Senso
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259388
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Cento X Cento" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Cento X Cento
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259389
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Bangbus FHD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Bangbus FHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259399
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Mofos Lab HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Mofos Lab HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259402
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SLTV Adult 1 HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SLTV Adult 1 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259403
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SLTV Adult 2 HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SLTV Adult 2 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259404
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SLTV Adult 3 HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SLTV Adult 3 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259405
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SLTV Adult 4 HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SLTV Adult 4 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259406
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SLTV Adult 5 HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SLTV Adult 5 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259407
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SLTV Adult 6 HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SLTV Adult 6 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259408
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SLTV Adult 7 HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SLTV Adult 7 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259409
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SLTV Adult 8 HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SLTV Adult 8 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259410
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SLTV Adult 9 HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SLTV Adult 9 HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259411
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SLTV Erotic HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SLTV Erotic HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259412
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Hot Club 1 FHD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Hot Club 1 FHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259433
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Hot Club 2 FHD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Hot Club 2 FHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259434
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - HOT CLUB 4 FHD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - HOT CLUB 4 FHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259435
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FRANCE A POİL2  HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FRANCE A POİL2  HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259436
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FRANCE A POİL3  HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FRANCE A POİL3  HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259437
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - NEO GAY 2" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - NEO GAY 2
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259438
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - XY MAX TV HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - XY MAX TV HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259354
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - PASSIONXXX ANALSRETCHED" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - PASSIONXXX ANALSRETCHED
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259324
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Pinko TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Pinko TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259336
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Reality Kings TV" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Reality Kings TV
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259337
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - BIGASS" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - BIGASS
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259338
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - SEX MEX CHANNEL" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - SEX MEX CHANNEL
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259339
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FAP TV 2" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FAP TV 2
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259341
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FAP TV 3" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FAP TV 3
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259342
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FAP TV 4" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FAP TV 4
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259343
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FAP TV Parody" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FAP TV Parody
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259345
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FAP TV Teens" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FAP TV Teens
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259346
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - FAP TV Compilation" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - FAP TV Compilation
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259347
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - XY PLUS HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - XY PLUS HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259353
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - EXTASY HD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - EXTASY HD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259355
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Lesbian 1" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Babes
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259367
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Bunga Bunga" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Bunga Bunga
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259369
+#EXTINF:-1 tvg-id="" tvg-name="ADULT - Holed FHD" tvg-logo="http://logo.panel.cx/logo/ADULT.png" group-title="For Adults",ADULT - Holed FHD
+http://tptv.cz:80/CA7DF4D60F13235/k4i60W1ekq/259370
