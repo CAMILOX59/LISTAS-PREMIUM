@@ -63,7 +63,7 @@ http://tptv.cz:80/A163A1F8AC99929/xogeKys6BK/30656
 http://tptv.cz:80/A163A1F8AC99929/xogeKys6BK/30655
 #EXTINF:-1 tvg-id="" tvg-name="LATINO - GOLDEN PLUS" tvg-logo="https://i.imgur.com/ZmrUcw5.png" group-title="LATINO 1",LATINO - GOLDEN PLUS
 http://tptv.cz:80/A163A1F8AC99929/xogeKys6BK/30654
-#EXTINF:-1 tvg-id="" tvg-name="LATINO - GOLDEN PREMIER" tvg-logo="https://i.imgur.com/aW5ROnY.png" group-title="LATINO 1",LATINO - GOLDEN PREMIER
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - GOLDEN PREMIER" tvg-logo="http://logo.panel.cx/logo/LATINO/GOLDENEDGE.png" group-title="LATINO 1",LATINO - GOLDEN PREMIER
 http://tptv.cz:80/A163A1F8AC99929/xogeKys6BK/30653
 #EXTINF:-1 tvg-id="" tvg-name="LATINO - STUDIO UNIVERSAL" tvg-logo="http://logo.panel.cx/logo/LATINO/STUDIOUNIVERSALTV.png" group-title="LATINO 1",LATINO - STUDIO UNIVERSAL
 http://tptv.cz:80/A163A1F8AC99929/xogeKys6BK/30652
@@ -195,7 +195,7 @@ http://tptv.cz:80/A163A1F8AC99929/xogeKys6BK/69084
 http://tptv.cz:80/A163A1F8AC99929/xogeKys6BK/69083
 #EXTINF:-1 tvg-id="" tvg-name="LATINO - MULTIPREMIER" tvg-logo="http://logo.panel.cx/logo/LATINO/MULTIPREMIER.png" group-title="AM | LATINO",LATINO - MULTIPREMIER
 http://tptv.cz:80/A163A1F8AC99929/xogeKys6BK/69082
-#EXTINF:-1 tvg-id="" tvg-name="LATINO - GOLDEN PREMIER" tvg-logo="http://logo.panel.cx/logo/LATINO/GOLDENPREMIER.png" group-title="LATINO 1",LATINO - GOLDEN PREMIER
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - GOLDEN PREMIER" tvg-logo="https://i.imgur.com/aW5ROnY.png" group-title="LATINO 1",LATINO - GOLDEN PREMIER
 http://tptv.cz:80/A163A1F8AC99929/xogeKys6BK/69081
 #EXTINF:-1 tvg-id="" tvg-name="LATINO - GLITZ" tvg-logo="http://logo.panel.cx/logo/LATINO/GLITZ.png" group-title="AM | LATINO",LATINO - GLITZ
 http://tptv.cz:80/A163A1F8AC99929/xogeKys6BK/69080
