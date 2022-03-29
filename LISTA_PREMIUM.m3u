@@ -63,8 +63,10 @@ http://tptv.cz:80/A163A1F8AC99929/pOgRtkojqz/30656
 http://tptv.cz:80/A163A1F8AC99929/pOgRtkojqz/30655
 #EXTINF:-1 tvg-id="" tvg-name="LATINO - GOLDEN PLUS" tvg-logo="https://i.imgur.com/Srzmwqx.png" group-title="LATINO 1",LATINO - GOLDEN PLUS
 http://tptv.cz:80/A163A1F8AC99929/pOgRtkojqz/30654
-#EXTINF:-1 tvg-id="" tvg-name="LATINO - GOLDEN EDGE" tvg-logo="https://i.imgur.com/aXZ11jQ.png" group-title="LATINO 1",LATINO - GOLDEN EDGE
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - GOLDEN EDGE" tvg-logo="http://logo.panel.cx/logo/LATINO/GOLDENEDGE.png" group-title="LATINO 1",LATINO - GOLDEN EDGE
 http://tptv.cz:80/A163A1F8AC99929/pOgRtkojqz/30653
+#EXTINF:-1 tvg-id="" tvg-name="LATINO - GOLDEN PREMIER" tvg-logo="http://logo.panel.cx/logo/LATINO/GOLDENPREMIER.png" group-title="AM | LATINO",LATINO - GOLDEN PREMIER
+http://tptv.cz:80/A163A1F8AC99929/xogeKys6BK/69081
 #EXTINF:-1 tvg-id="" tvg-name="LATINO - STUDIO UNIVERSAL" tvg-logo="http://logo.panel.cx/logo/LATINO/STUDIOUNIVERSALTV.png" group-title="LATINO 1",LATINO - STUDIO UNIVERSAL
 http://tptv.cz:80/A163A1F8AC99929/pOgRtkojqz/30652
 #EXTINF:-1 tvg-id="" tvg-name="LATINO - TUMUSICA" tvg-logo="http://logo.panel.cx/logo/LATINO/MIMUSICA.png" group-title="AM | LATINO",LATINO - TUMUSICA
