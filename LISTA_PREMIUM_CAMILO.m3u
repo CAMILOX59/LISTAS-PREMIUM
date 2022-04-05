@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports English 2 FHD" tvg-logo="" group-title="KATAR",QA: beIN Sports English 2 FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/71852.ts
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports English 3 FHD" tvg-logo="" group-title="KATAR",QA: beIN Sports English 3 FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/71853.ts
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports FHD" tvg-logo="" group-title="KATAR",QA: beIN Sports FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/71854.ts
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports English 1 HD" tvg-logo="" group-title="KATAR",QA: beIN Sports English 1 HD
+http://ns1111.xyz:80/live/aziz22/22aziz/71855.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG: A24 HD" tvg-logo="" group-title="ARGENTINA",ARG: A24 HD
 http://ns1111.xyz:80/live/aziz22/22aziz/73263.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG: AMC" tvg-logo="" group-title="ARGENTINA",ARG: AMC
