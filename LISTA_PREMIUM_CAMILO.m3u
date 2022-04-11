@@ -125,7 +125,7 @@ http://ns1111.xyz:80/live/aziz22/22aziz/73319.ts
 http://ns1111.xyz:80/live/aziz22/22aziz/73320.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Golf Channel HD" tvg-logo="" group-title="ARGENTINA",ARG: Golf Channel HD
 http://ns1111.xyz:80/live/aziz22/22aziz/73321.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO" tvg-logo="" group-title="ARGENTINA",ARG: HBO
+#EXTINF:-1 tvg-id="" tvg-name="ARG: " tvg-logo="" group-title="ARGENTINA",ARG: HBO
 http://ns1111.xyz:80/live/aziz22/22aziz/73322.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG: HBO 2 HD" tvg-logo="" group-title="ARGENTINA",ARG: HBO 2 HD
 http://ns1111.xyz:80/live/aziz22/22aziz/73323.ts
@@ -797,7 +797,7 @@ http://goldiptv.online:8080/mevlut/mevlut123/27417
 http://goldiptv.online:8080/mevlut/mevlut123/27416
 #EXTINF:-1,Latino: H2
 http://goldiptv.online:8080/mevlut/mevlut123/27415
-#EXTINF:-1,Latino: HBO
+#EXTINF:-1 tvg-id="HBO",Latino: HBO
 http://goldiptv.online:8080/mevlut/mevlut123/27414
 #EXTINF:-1,Latino: HBO 2
 http://goldiptv.online:8080/mevlut/mevlut123/27413
@@ -805,7 +805,7 @@ http://goldiptv.online:8080/mevlut/mevlut123/27413
 http://goldiptv.online:8080/mevlut/mevlut123/27412
 #EXTINF:-1,Latino: HBO 2 HD
 http://goldiptv.online:8080/mevlut/mevlut123/27411
-#EXTINF:-1,Latino: HBO Family
+#EXTINF:-1 tvg-id="HBO Family",Latino: HBO Family
 http://goldiptv.online:8080/mevlut/mevlut123/27410
 #EXTINF:-1,Latino: HBO Family FHD
 http://goldiptv.online:8080/mevlut/mevlut123/27409
