@@ -1,765 +1,1567 @@
 #EXTM3U
-#EXTINF:-1,CANAL 1 |CO|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/524
-#EXTINF:-1,CANAL 3 |GT|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/525
-#EXTINF:-1,CANAL 7 |GT|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/526
-#EXTINF:-1,CANAL 11 |GT|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/527
-#EXTINF:-1,CANAL 13 |GT|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/528
-#EXTINF:-1,TN23 |GT|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/529
-#EXTINF:-1,A Plus
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/530
-#EXTINF:-1,Antena 3
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/531
-#EXTINF:-1,A3 Series
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/532
-#EXTINF:-1,America TV |PE|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/533
-#EXTINF:-1,ATV |PE|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/534
-#EXTINF:-1,Az Corazon
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/535
-#EXTINF:-1,Az Click
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/536
-#EXTINF:-1,Az Cinema
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/537
-#EXTINF:-1,AZ Mundo
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/538
-#EXTINF:-1,A&E
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/539
-#EXTINF:-1,AMC
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/540
-#EXTINF:-1,AXN
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/541
-#EXTINF:-1,ADN 40
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/542
-#EXTINF:-1,Animal Planet
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/543
-#EXTINF:-1,Azteca Uno
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/544
-#EXTINF:-1,Azteca 7
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/545
-#EXTINF:-1,Baby TV
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/546
-#EXTINF:-1,Baby First
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/547
-#EXTINF:-1,Bandamax
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/548
-#EXTINF:-1,Boomerang
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/549
-#EXTINF:-1,Bitme
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/550
-#EXTINF:-1,Canal 5
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/551
-#EXTINF:-1,Cartoon Network
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/552
-#EXTINF:-1,Caracol 1
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/553
-#EXTINF:-1,Caracol 2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/554
-#EXTINF:-1,Caracol 3 Inter
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/555
-#EXTINF:-1,Cinecanal
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/556
-#EXTINF:-1,Cinemax
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/557
-#EXTINF:-1,CineLatino
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/558
-#EXTINF:-1,CineDinamita
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/559
-#EXTINF:-1,City TV |CO|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/560
-#EXTINF:-1,CNN en Espanol
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/561
-#EXTINF:-1,CNN Internacional
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/562
-#EXTINF:-1,Comedy Central
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/563
-#EXTINF:-1,Color Vision |DO|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/564
-#EXTINF:-1,Cronica |AR|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/565
-#EXTINF:-1,De Película+
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/566
-#EXTINF:-1,De Película
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/567
-#EXTINF:-1,DHE
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/568
-#EXTINF:-1,Discovery Channel
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/569
-#EXTINF:-1,Discovery Civilization
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/570
-#EXTINF:-1,Discovery Home & Health
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/571
-#EXTINF:-1,Discovery Kids
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/572
-#EXTINF:-1,Discovery Science
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/573
-#EXTINF:-1,Discovery Theater
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/574
-#EXTINF:-1,Discovery TLC
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/575
-#EXTINF:-1,Discovery Turbo
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/576
-#EXTINF:-1,Discovery World
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/577
-#EXTINF:-1,Disney Channel--
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/578
-#EXTINF:-1,Disney Junior
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/579
-#EXTINF:-1,Disney XD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/580
-#EXTINF:-1,Distrito Comedia 1
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/581
-#EXTINF:-1,Distrito Comedia 2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/582
-#EXTINF:-1,Ecuavisa |EC|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/583
-#EXTINF:-1,El Gourmet
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/584
-#EXTINF:-1,EL TRECE |AR|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/585
-#EXTINF:-1,El Nueve |AR|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/586
-#EXTINF:-1,Entertainment
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/587
-#EXTINF:-1,Film and Arts
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/588
-#EXTINF:-1,Foro TV |MX|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/589
-#EXTINF:-1,Food Network
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/590
-#EXTINF:-1,Fox Channel |MX|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/591
-#EXTINF:-1,Fox Channel |SUR|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/592
-#EXTINF:-1,Fox Life
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/593
-#EXTINF:-1,FX
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/601
-#EXTINF:-1,FXM
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/602
-#EXTINF:-1,Galavision
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/603
-#EXTINF:-1,GAMA TV |EC|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/604
-#EXTINF:-1,Glitz
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/605
-#EXTINF:-1,Golden
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/606
-#EXTINF:-1,Golden Edge
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/607
-#EXTINF:-1,Golden Plus
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/608
-#EXTINF:-1,Golden Premier
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/609
-#EXTINF:-1,HBO
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/610
-#EXTINF:-1,HBO 2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/611
-#EXTINF:-1,HBO Family
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/612
-#EXTINF:-1,HBO Plus
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/613
-#EXTINF:-1,HBO Signature
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/614
-#EXTINF:-1,HBO XTREME
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/615
-#EXTINF:-1,HBO POP
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/616
-#EXTINF:-1,HBO MUNDI
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/617
-#EXTINF:-1,HGTV
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/618
-#EXTINF:-1,History
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/619
-#EXTINF:-1,History 2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/620
-#EXTINF:-1,HTV
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/621
-#EXTINF:-1,Hola TV
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/622
-#EXTINF:-1,Imagen TV
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/623
-#EXTINF:-1,Investigation Discovery
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/624
-#EXTINF:-1,Las Estrellas
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/625
-#EXTINF:-1,Las Estrellas LAT
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/626
-#EXTINF:-1,Latina Peru
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/627
-#EXTINF:-1,Lifetime
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/628
-#EXTINF:-1,Más Chic
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/629
-#EXTINF:-1,MEGA |ES|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/630
-#EXTINF:-1,MTV
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/631
-#EXTINF:-1,MTV Hits
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/632
-#EXTINF:-1,MTV Live--
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/633
-#EXTINF:-1,Multimedios
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/634
-#EXTINF:-1,Nat Geo
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/635
-#EXTINF:-1,Nat Geo Wild
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/636
-#EXTINF:-1,Nat Geo Kids
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/637
-#EXTINF:-1,Nick
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/638
-#EXTINF:-1,Nick 2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/639
-#EXTINF:-1,Nick JR
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/640
-#EXTINF:-1,Nick Music
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/641
-#EXTINF:-1,Oromar |EC|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/642
-#EXTINF:-1,Paramount
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/643
-#EXTINF:-1,RCN
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/644
-#EXTINF:-1,RCN Novelas
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/645
-#EXTINF:-1,RTS |EC|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/646
-#EXTINF:-1,Pasiones
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/647
-#EXTINF:-1,Señal Colombia |CO|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/648
-#EXTINF:-1,Sony
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/649
-#EXTINF:-1,Space
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/650
-#EXTINF:-1,Studio Universal
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/651
-#EXTINF:-1,SYFY
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/652
-#EXTINF:-1,TBS
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/653
-#EXTINF:-1,TC |EC|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/654
-#EXTINF:-1,TCM
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/655
-#EXTINF:-1,Teleantillas |DO|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/656
-#EXTINF:-1,Telemicro |DO|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/657
-#EXTINF:-1,Telehit 1
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/658
-#EXTINF:-1,Telehit 2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/659
-#EXTINF:-1,TELEMUNDO
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/660
-#EXTINF:-1,TELEMUNDO INTER LAT
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/661
-#EXTINF:-1,TELEFORMULA |MX|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/662
-#EXTINF:-1,Telesistema |DO|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/663
-#EXTINF:-1,Televicentro |EC|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/664
-#EXTINF:-1,Tl Novelas
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/665
-#EXTINF:-1,Tl Novelas LAT
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/666
-#EXTINF:-1,TELEFE |AR|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/667
-#EXTINF:-1,Teleamazonas |EC|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/668
-#EXTINF:-1,Teletica |CR|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/669
-#EXTINF:-1,TNT
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/670
-#EXTINF:-1,TNT SERIES
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/671
-#EXTINF:-1,Tooncast
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/672
-#EXTINF:-1,Tru TV LAT
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/673
-#EXTINF:-1,TV Peru
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/674
-#EXTINF:-1,Tv MAS |MX|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/675
-#EXTINF:-1,TVN |PA|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/676
-#EXTINF:-1,Unicable
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/677
-#EXTINF:-1,Unimas
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/678
-#EXTINF:-1,Universal Channel 1
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/679
-#EXTINF:-1,Universo
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/680
-#EXTINF:-1,Univision In
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/681
-#EXTINF:-1,VH1 
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/682
-#EXTINF:-1,Warner
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/683
-#EXTINF:-1,Wapa |PR|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/684
-#EXTINF:-1,Universal Crime (_1_)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/594
-#EXTINF:-1,Universal Cinema (_1_)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/595
-#EXTINF:-1,Universal Crime (_2_)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/596
-#EXTINF:-1,Universal Comedy (_1_)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/597
-#EXTINF:-1,Universal Reality (_1_)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/598
-#EXTINF:-1,Universal Premier (_1_)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/599
-#EXTINF:-1,Universal Premier (_2_)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/600
-#EXTINF:-1,OP2 •A&E
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/733
-#EXTINF:-1,OP2 •AMC
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/734
-#EXTINF:-1,OP2 •Animal Planet
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/736
-#EXTINF:-1,OP2 •Cartoon Network
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/737
-#EXTINF:-1,OP2 •Cinecanal
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/738
-#EXTINF:-1,OP2 •Cinemax
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/739
-#EXTINF:-1,OP2 •Comedy Central
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/740
-#EXTINF:-1,OP2 •Discovery Channel
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/741
-#EXTINF:-1,OP2 •Discovery Home & Health
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/742
-#EXTINF:-1,OP2 •Discovery Kids
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/743
-#EXTINF:-1,OP2 •Discovery Science
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/744
-#EXTINF:-1,OP2 •Discovery Theater
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/745
-#EXTINF:-1,OP2 •Discovery TLC
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/746
-#EXTINF:-1,OP2 •Discovery Turbo
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/747
-#EXTINF:-1,OP2 •Discovery World
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/748
-#EXTINF:-1,OP2 •Disney Channel
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/749
-#EXTINF:-1,OP2 •Disney Junior
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/750
-#EXTINF:-1,OP2 •Disney XD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/751
-#EXTINF:-1,OP2 •El Gourmet
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/752
-#EXTINF:-1,OP2 •Fox Life
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/753
-#EXTINF:-1,OP2 •FX
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/759
-#EXTINF:-1,OP2 •History
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/760
-#EXTINF:-1,OP2 •Investigation Discovery
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/761
-#EXTINF:-1,OP2 •Lifetime
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/762
-#EXTINF:-1,OP2 •Más Chic
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/763
-#EXTINF:-1,OP2 •Nat Geo-
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/764
-#EXTINF:-1,OP2 •Nat Geo Wild
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/765
-#EXTINF:-1,OP2 •Nat Geo Kids
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/766
-#EXTINF:-1,OP2 •Nick
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/767
-#EXTINF:-1,OP2 •Nick 2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/768
-#EXTINF:-1,OP2 •Nick JR
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/769
-#EXTINF:-1,OP2 •Paramount
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/770
-#EXTINF:-1,OP2 •Sony
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/771
-#EXTINF:-1,OP2 •Space
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/772
-#EXTINF:-1,OP2 •Studio Universal
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/773
-#EXTINF:-1,OP2 •TBS
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/774
-#EXTINF:-1,OP2 •TCM
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/775
-#EXTINF:-1,OP2 •TNT
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/776
-#EXTINF:-1,OP2 •TNT SERIES
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/777
-#EXTINF:-1,OP2 •Tooncast
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/778
-#EXTINF:-1,OP2 •Universal Channel
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/779
-#EXTINF:-1,OP2 •Warner
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/780
-#EXTINF:-1,OP2 •AXN
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/735
-#EXTINF:-1,HD •A&E
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/829
-#EXTINF:-1,HD •AMC
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/830
-#EXTINF:-1,HD •Animal Planet
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/831
-#EXTINF:-1,HD •AXN
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/832
-#EXTINF:-1,HD •Cartoon Network
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/833
-#EXTINF:-1,HD •Cinecanal
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/834
-#EXTINF:-1,HD •Cinemax HD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/835
-#EXTINF:-1,HD •Comedy Central
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/836
-#EXTINF:-1,HD •Distrito Comedia
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/837
-#EXTINF:-1,HD •Discovery Channel
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/838
-#EXTINF:-1,HD •Discovery Home and Health
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/839
-#EXTINF:-1,HD •Discovery Kids
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/840
-#EXTINF:-1,HD •Discovery Theater
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/841
-#EXTINF:-1,HD •Discovery World
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/842
-#EXTINF:-1,HD •Disney Chanel
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/843
-#EXTINF:-1,HD •Fox Channel
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/844
-#EXTINF:-1,HD •Fox Life
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/845
-#EXTINF:-1,HD •FX HD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/853
-#EXTINF:-1,HD •FXM HD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/854
-#EXTINF:-1,HD •HBO.
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/855
-#EXTINF:-1,HD •HBO 2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/856
-#EXTINF:-1,HD •HBO Family
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/857
-#EXTINF:-1,HD •HBO Plus
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/858
-#EXTINF:-1,HD •HBO POP
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/859
-#EXTINF:-1,HD •HBO Signature
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/860
-#EXTINF:-1,HD •HBO XTREME
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/861
-#EXTINF:-1,HD •History HD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/862
-#EXTINF:-1,HD •Hola TV
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/863
-#EXTINF:-1,HD •Investigation Discovery
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/864
-#EXTINF:-1,HD •Las Estrellas
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/865
-#EXTINF:-1,HD •Mas Chic
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/866
-#EXTINF:-1,HD •MTV
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/867
-#EXTINF:-1,HD •Nat Geo
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/868
-#EXTINF:-1,HD •Natgeo Wild
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/869
-#EXTINF:-1,HD •Nat Geo Kids
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/870
-#EXTINF:-1,HD •Nickelodeon
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/871
-#EXTINF:-1,HD •Nick 2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/872
-#EXTINF:-1,HD •Nick Jr
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/873
-#EXTINF:-1,HD •Paramount Channel
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/874
-#EXTINF:-1,HD •Pasiones
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/875
-#EXTINF:-1,HD •Sony
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/876
-#EXTINF:-1,HD •Space
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/877
-#EXTINF:-1,HD •TLC
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/878
-#EXTINF:-1,HD •TNT
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/879
-#EXTINF:-1,HD •TNT Series
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/880
-#EXTINF:-1,HD •Universal Channel
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/881
-#EXTINF:-1,HD •Warner Channel
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/882
-#EXTINF:-1,HD •Universal Crime (_3 HD_)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/846
-#EXTINF:-1,HD •Universal Cinema (_2 HD_)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/847
-#EXTINF:-1,HD •Universal Comedy (_2 HD_)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/849
-#EXTINF:-1,HD •Universal Reality (_2 HD_)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/850
-#EXTINF:-1,HD •Universal Premier (_3 HD_)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/851
-#EXTINF:-1,HD •Universal Premier (_4 HD_)
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/852
-#EXTINF:-1,Afizzionados
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/885
-#EXTINF:-1,Bein Sports N
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/886
-#EXTINF:-1,CDF Premium
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/887
-#EXTINF:-1,Claro Sports
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/888
-#EXTINF:-1,Canal Del Futbol |EC|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/889
-#EXTINF:-1,Directv Sports-
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/890
-#EXTINF:-1,Directv Sports 2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/891
-#EXTINF:-1,Directv Sports Plus
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/892
-#EXTINF:-1,Espn Plus
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/893
-#EXTINF:-1,Espn 1 Sur
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/894
-#EXTINF:-1,Espn 2 Sur
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/895
-#EXTINF:-1,Espn 3 Sur
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/896
-#EXTINF:-1,Espn 1 MX
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/897
-#EXTINF:-1,Espn 2 MX
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/898
-#EXTINF:-1,Espn 3 MX
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/899
-#EXTINF:-1,Fox Sports Premium
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/900
-#EXTINF:-1,Futv CostaRica
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/901
-#EXTINF:-1,Fox Sports 1 Sur
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/902
-#EXTINF:-1,Fox Sports 2 Sur
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/903
-#EXTINF:-1,Fox Sports 3 Sur
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/904
-#EXTINF:-1,Fox Sports 1 MX
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/905
-#EXTINF:-1,Fox Sports 2 MX
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/906
-#EXTINF:-1,Fox Sports 3 MX
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/907
-#EXTINF:-1,Gol Peru |PE|
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/908
-#EXTINF:-1,TNT SPORTS HD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/909
-#EXTINF:-1,TUDN 1 MX
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/910
-#EXTINF:-1,TUDN 2 US
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/911
-#EXTINF:-1,TYC SPORTS HD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/912
-#EXTINF:-1,VTV HD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/913
-#EXTINF:-1,VTV Plus HD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/914
-#EXTINF:-1,Win Sports
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/915
-#EXTINF:-1,Win Sports Plus
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/916
-#EXTINF:-1,TVC DEPORTE
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1017
-#EXTINF:-1,247 ALF
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/921
-#EXTINF:-1,247 Breaking Bad
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/922
-#EXTINF:-1,247 Barney y sus amigos
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/923
-#EXTINF:-1,247 Batman Retro 1966
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/924
-#EXTINF:-1,247 Batman Animado 1992
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/925
-#EXTINF:-1,247 Bob Esponja
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/926
-#EXTINF:-1,247 Caballeros del Zodiaco
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/927
-#EXTINF:-1,247 Caillou
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/928
-#EXTINF:-1,247 Candy
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/929
-#EXTINF:-1,247 Cantinflas
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/930
-#EXTINF:-1,247 Caso Cerrado
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/931
-#EXTINF:-1,247 Coraje
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/932
-#EXTINF:-1,247 CSI: Miami
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/933
-#EXTINF:-1,247 Dragon Ball 1984
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/934
-#EXTINF:-1,247 Dragon Ball GT 1996
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/935
-#EXTINF:-1,247 Dragon Ball Z 1989
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/936
-#EXTINF:-1,247 Dragon Ball Super
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/937
-#EXTINF:-1,247 Death Note
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/938
-#EXTINF:-1,247 DINOSAURIOS 1991
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/939
-#EXTINF:-1,247 Dora la Exploradora
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/940
-#EXTINF:-1,247 El Chavo del 8
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/941
-#EXTINF:-1,247 EL CHAPULIN COLORADO
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/942
-#EXTINF:-1,247 El Coyote y el Correcaminos
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/943
-#EXTINF:-1,247 Futurama 1999
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/944
-#EXTINF:-1,247 Game Of Throne
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/945
-#EXTINF:-1,247 Happy Tree Friends
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/946
-#EXTINF:-1,247 He-Man
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/947
-#EXTINF:-1,247 Heroes en Pijamas
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/948
-#EXTINF:-1,247 Jorge el curioso
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/949
-#EXTINF:-1,247 La Familia Monsters 1964
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/950
-#EXTINF:-1,247 La Pantera Rosa
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/951
-#EXTINF:-1,247 La Rosa De Guadalupe
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/952
-#EXTINF:-1,247 La Hora Pico
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/953
-#EXTINF:-1,247 LazyTown
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/954
-#EXTINF:-1,247 Le temes a la oscuridad
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/955
-#EXTINF:-1,247 Locos Adams
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/956
-#EXTINF:-1,247 Los años maravillosos 1988
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/957
-#EXTINF:-1,247 Los Picapiedra
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/958
-#EXTINF:-1,247 Malcolm in the middle 2000
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/959
-#EXTINF:-1,247 Mazinger Z
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/960
-#EXTINF:-1,247 Mr. Bean
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/961
-#EXTINF:-1,247 Naruto
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/962
-#EXTINF:-1,247 Peppa Pig
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/963
-#EXTINF:-1,247 Pinky y Cerebro 1995
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/964
-#EXTINF:-1,247 Pokémon
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/965
-#EXTINF:-1,247 Power Rangers
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/966
-#EXTINF:-1,247 Robotech
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/967
-#EXTINF:-1,247 Sailor Moon
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/968
-#EXTINF:-1,247 Shark Tank MX TEM 1
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/969
-#EXTINF:-1,247 Shark Tank MX TEM 2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/970
-#EXTINF:-1,247 Smallville
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/971
-#EXTINF:-1,247 Shera
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/972
-#EXTINF:-1,247 South Park
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/973
-#EXTINF:-1,247 Spider-Man
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/974
-#EXTINF:-1,247 Super Campeones
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/975
-#EXTINF:-1,247 The Big Bang Theory
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/976
-#EXTINF:-1,247 Vete a la Versh
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/977
-#EXTINF:-1,247 XMEN ANIME
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/978
-#EXTINF:-1,247 Los Simpson
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/979
-#EXTINF:-1,247 LOS SIMPSONS 1-5
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/980
-#EXTINF:-1,247 LOS SIMPSONS 6-11
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/981
-#EXTINF:-1,247 LOS SIMPSONS 12-17
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/982
-#EXTINF:-1,247 LOS SIMPSONS 18-21
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/983
-#EXTINF:-1,247 LOS SIMPSONS 22-26
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/984
-#EXTINF:-1,247 LOS SIMPSONS 27-30
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/985
-#EXTINF:-1,247 CINE ACCION
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/986
-#EXTINF:-1,247 CINE FANTASIA
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/987
-#EXTINF:-1,247 CINE FANTASIA SAGAS
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/988
-#EXTINF:-1,247 CINE INFANTIL
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/989
-#EXTINF:-1,247 CINE INFANTIL SAGAS
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/990
-#EXTINF:-1,247 CINE ROMANCE HD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/991
-#EXTINF:-1,247 CINE ROMANCE SD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/992
-#EXTINF:-1,247 CINE TERROR
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/993
-#EXTINF:-1,247 CINE ZOMBIES
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/994
-#EXTINF:-1,247 Thundercats 1
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/995
-#EXTINF:-1,247 Thundercats 2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/996
-#EXTINF:-1,247 CINE MARVEL 1
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/997
-#EXTINF:-1,247 CINE MARVEL 2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/998
-#EXTINF:-1,247 Chespirito
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/999
-#EXTINF:-1,247 Animaniacs
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1000
-#EXTINF:-1,247 Doraemon
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1001
-#EXTINF:-1,247 El Gallo Claudio
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1002
-#EXTINF:-1,247 El Pajaro Loco
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1003
-#EXTINF:-1,247 Garfield
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1004
-#EXTINF:-1,247 Hey Arnold
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1005
-#EXTINF:-1,247 La Vaca y ElPollito
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1006
-#EXTINF:-1,247 Looney Tunes
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1007
-#EXTINF:-1,247 One Punch Man
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1008
-#EXTINF:-1,247 Padre de Familia
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1009
-#EXTINF:-1,247 Ranma 1/2
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1010
-#EXTINF:-1,247 Scooby Doo
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1011
-#EXTINF:-1,247 Tom y Jerry
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/ALEXISNERIZ/APLICACION/1012
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sl.png",CINECANAL HD
+http://190.83.119.67:8000/play/a0sl/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s8.png",A&E
+http://190.83.119.67:8000/play/a0s8/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q7.png",A&E HD
+http://190.83.119.67:8000/play/a0q7/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pr.png",AMC
+http://190.83.119.67:8000/play/a0pr/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q8.png",AMC HD
+http://190.83.119.67:8000/play/a0q8/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pp.png",AXN
+http://190.83.119.67:8000/play/a0pp/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q4.png",Animal Planet HD
+http://190.83.119.67:8000/play/a0q4/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pt.png",BBC World
+http://190.83.119.67:8000/play/a0pt/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r3.png",Baby First
+http://190.83.119.67:8000/play/a0r3/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ns.png",Baby TV
+http://190.83.119.67:8000/play/a0ns/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v6.png",Beinsports
+http://190.83.119.67:8000/play/a0v6/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qt.png",CANAL 13 - NI
+http://190.83.119.67:8000/play/a0qt/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0op.png",CARTOON NT HD
+http://190.83.119.67:8000/play/a0op/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p8.png",Cartoon Network
+http://190.83.119.67:8000/play/a0p8/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0su.png",Comedy Central HD
+http://190.83.119.67:8000/play/a0su/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oq.png",Concert Channel HD
+http://190.83.119.67:8000/play/a0oq/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ok.png",DHE
+http://190.83.119.67:8000/play/a0ok/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qd.png",DHE HD
+http://190.83.119.67:8000/play/a0qd/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sr.png",DISC THEATHER HD
+http://190.83.119.67:8000/play/a0sr/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qp.png",Digital 15 - RD
+http://190.83.119.67:8000/play/a0qp/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tb.png",Discovery Channel HD
+http://190.83.119.67:8000/play/a0tb/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tf.png",Discovery ID HD
+http://190.83.119.67:8000/play/a0tf/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ob.png",Discovery Kids HD
+http://190.83.119.67:8000/play/a0ob/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ny.png",Discovery Science
+http://190.83.119.67:8000/play/a0ny/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tc.png",Discovery World HD
+http://190.83.119.67:8000/play/a0tc/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pb.png",Disney JR
+http://190.83.119.67:8000/play/a0pb/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s7.png",E!
+http://190.83.119.67:8000/play/a0s7/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q5.png",E! Entertairment HD
+http://190.83.119.67:8000/play/a0q5/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0se.png",ESPN
+http://190.83.119.67:8000/play/a0se/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0py.png",ESPN  +
+http://190.83.119.67:8000/play/a0py/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sf.png",ESPN 2
+http://190.83.119.67:8000/play/a0sf/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t6.png",ESPN 2 HD
+http://190.83.119.67:8000/play/a0t6/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rb.png",ESPN 3
+http://190.83.119.67:8000/play/a0rb/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t5.png",ESPN 3 HD
+http://190.83.119.67:8000/play/a0t5/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t4.png",ESPN HD
+http://190.83.119.67:8000/play/a0t4/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qa.png",FX HD
+http://190.83.119.67:8000/play/a0qa/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png",HBO2 HD
+http://190.83.119.67:8000/play/a0os/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0st.png",HOLA! TV HD
+http://190.83.119.67:8000/play/a0st/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rg.png",HTV
+http://190.83.119.67:8000/play/a0rg/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sc.png",History Channel
+http://190.83.119.67:8000/play/a0sc/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0px.png",History HD
+http://190.83.119.67:8000/play/a0px/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nz.png",Hola!TV
+http://190.83.119.67:8000/play/a0nz/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ss.png",Home & Health HD
+http://190.83.119.67:8000/play/a0ss/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nx.png",Home Garden Latino
+http://190.83.119.67:8000/play/a0nx/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pl.png",LIFE TIME
+http://190.83.119.67:8000/play/a0pl/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rd.png",Latin America Sport
+http://190.83.119.67:8000/play/a0rd/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tj.png",Movistar La liga
+http://190.83.119.67:8000/play/a0tj/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0o5.png",Multicinema
+http://190.83.119.67:8000/play/a0o5/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0og.png",Multimedios
+http://190.83.119.67:8000/play/a0og/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0tm.png",Multipremier
+http://190.83.119.67:8000/play/a0tm/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qw.png",NEXT - PAN
+http://190.83.119.67:8000/play/a0qw/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t8.png",Nat Geo HD
+http://190.83.119.67:8000/play/a0t8/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pk.png",National Geographic
+http://190.83.119.67:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p9.png",Nick Jr
+http://190.83.119.67:8000/play/a0p9/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0so.png",Nick SIM HD
+http://190.83.119.67:8000/play/a0so/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t9.png",Paramount HD
+http://190.83.119.67:8000/play/a0t9/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0td.png",Pasiones HD
+http://190.83.119.67:8000/play/a0td/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ow.png",Playboy
+http://190.83.119.67:8000/play/a0ow/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0nq.png",RCN - GUA
+http://190.83.119.67:8000/play/a0nq/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r5.png",RCN Novelas
+http://190.83.119.67:8000/play/a0r5/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sk.png",SONY HD
+http://190.83.119.67:8000/play/a0sk/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ph.png",SPACE
+http://190.83.119.67:8000/play/a0ph/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0si.png",STAR CHANNEL HD
+http://190.83.119.67:8000/play/a0si/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0rm.png",Sembrador
+http://190.83.119.67:8000/play/a0rm/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qc.png",Sony Movies HD
+http://190.83.119.67:8000/play/a0qc/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qf.png",Star TVE HD
+http://190.83.119.67:8000/play/a0qf/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0q2.png",Studio Universal HD
+http://190.83.119.67:8000/play/a0q2/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sq.png",TNT HD
+http://190.83.119.67:8000/play/a0sq/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pi.png",TNT Series
+http://190.83.119.67:8000/play/a0pi/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ta.png",TNT Series HD
+http://190.83.119.67:8000/play/a0ta/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0v2.png",UNIVERSAL CINEMA HD
+http://190.83.119.67:8000/play/a0v2/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t1.png",UNIVERSAL COMEDY HD
+http://190.83.119.67:8000/play/a0t1/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t0.png",UNIVERSAL CRIME HD
+http://190.83.119.67:8000/play/a0t0/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ui.png",UNIVERSAL PREMIERE HD
+http://190.83.119.67:8000/play/a0ui/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sz.png",UNIVERSAL REALITY HD
+http://190.83.119.67:8000/play/a0sz/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ou.png",HBO Family HD
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0or.png",HBO HD
+http://190.83.119.67:8000/play/a0or/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ot.png",HBO Plus HD
+http://190.83.119.67:8000/play/a0ot/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ov.png",HBO XTREME
+http://190.83.119.67:8000/play/a0ov/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0os.png",HBO2 HD
+http://190.83.119.67:8000/play/a0os/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: WIN SPORTS PLUS (EXCLUSIVO)" tvg-logo="" group-title="Colombia",CO: WIN SPORTS PLUS (EXCLUSIVO)
+http://fortv.cc:8080/Ronnie/Ronnie/78697
+#EXTINF:-1,CO✦: DIRECTV SPORTS PLUS
+http://linkme.team:80/jonathan2020/jonathan2020/381385
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports English 2 FHD" tvg-logo="" group-title="KATAR",QA: beIN Sports English 2 FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/71852.ts
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports English 3 FHD" tvg-logo="" group-title="KATAR",QA: beIN Sports English 3 FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/71853.ts
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports FHD" tvg-logo="" group-title="KATAR",QA: beIN Sports FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/71854.ts
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports English 1 HD" tvg-logo="" group-title="KATAR",QA: beIN Sports English 1 HD
+http://ns1111.xyz:80/live/aziz22/22aziz/71855.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: A24 HD" tvg-logo="" group-title="ARGENTINA",ARG: A24 HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73263.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMC" tvg-logo="" group-title="ARGENTINA",ARG: AMC
+http://ns1111.xyz:80/live/aziz22/22aziz/73264.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: America TV HD" tvg-logo="" group-title="ARGENTINA",ARG: America TV HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73265.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Argentinisima HD" tvg-logo="" group-title="ARGENTINA",ARG: Argentinisima HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73266.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AXN HD" tvg-logo="" group-title="ARGENTINA",ARG: AXN HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73267.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Baby TV" tvg-logo="" group-title="ARGENTINA",ARG: Baby TV
+http://ns1111.xyz:80/live/aziz22/22aziz/73268.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG Baby TV" tvg-logo="" group-title="ARGENTINA",ARG Baby TV
+http://ns1111.xyz:80/live/aziz22/22aziz/73269.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Boomerang HD" tvg-logo="" group-title="ARGENTINA",ARG: Boomerang HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73270.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N" tvg-logo="" group-title="ARGENTINA",ARG: C5N
+http://ns1111.xyz:80/live/aziz22/22aziz/73271.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 3 Pinamar HD" tvg-logo="" group-title="ARGENTINA",ARG: Canal 3 Pinamar HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73272.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 26 HD" tvg-logo="" group-title="ARGENTINA",ARG: Canal 26 HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73273.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal de la Ciudad" tvg-logo="" group-title="ARGENTINA",ARG: Canal de la Ciudad
+http://ns1111.xyz:80/live/aziz22/22aziz/73274.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: canal orbe 21 HD" tvg-logo="" group-title="ARGENTINA",ARG: canal orbe 21 HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73275.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cartoon Network" tvg-logo="" group-title="ARGENTINA",ARG: Cartoon Network
+http://ns1111.xyz:80/live/aziz22/22aziz/73276.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG Cartoon Network" tvg-logo="" group-title="ARGENTINA",ARG Cartoon Network
+http://ns1111.xyz:80/live/aziz22/22aziz/73277.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Chaco TV HD" tvg-logo="" group-title="ARGENTINA",ARG: Chaco TV HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73278.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CI" tvg-logo="" group-title="ARGENTINA",ARG: CI
+http://ns1111.xyz:80/live/aziz22/22aziz/73279.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cine.ar HD" tvg-logo="" group-title="ARGENTINA",ARG: Cine.ar HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73280.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cinecanal HD" tvg-logo="" group-title="ARGENTINA",ARG: Cinecanal HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73281.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cinemax HD" tvg-logo="" group-title="ARGENTINA",ARG: Cinemax HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73282.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CNN News" tvg-logo="" group-title="ARGENTINA",ARG: CNN News
+http://ns1111.xyz:80/live/aziz22/22aziz/73283.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Comedy Central" tvg-logo="" group-title="ARGENTINA",ARG: Comedy Central
+http://ns1111.xyz:80/live/aziz22/22aziz/73284.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cronica TV" tvg-logo="" group-title="ARGENTINA",ARG: Cronica TV
+http://ns1111.xyz:80/live/aziz22/22aziz/73285.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DeporTV HD" tvg-logo="" group-title="ARGENTINA",ARG: DeporTV HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73286.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Discovery Channel FHD" tvg-logo="" group-title="ARGENTINA",ARG: Discovery Channel FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73287.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG Discovery Channel FHD" tvg-logo="" group-title="ARGENTINA",ARG Discovery Channel FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73288.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Discovery H&H HD" tvg-logo="" group-title="ARGENTINA",ARG: Discovery H&H HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73289.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG Discovery H&H HD" tvg-logo="" group-title="ARGENTINA",ARG Discovery H&H HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73290.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Discovery World FHD" tvg-logo="" group-title="ARGENTINA",ARG: Discovery World FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73291.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG Discovery World FHD" tvg-logo="" group-title="ARGENTINA",ARG Discovery World FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73292.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Disney Channel FHD" tvg-logo="" group-title="ARGENTINA",ARG: Disney Channel FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73293.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG Disney Channel FHD" tvg-logo="" group-title="ARGENTINA",ARG Disney Channel FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73294.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Disney Junior" tvg-logo="" group-title="ARGENTINA",ARG: Disney Junior
+http://ns1111.xyz:80/live/aziz22/22aziz/73295.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG Disney Junior" tvg-logo="" group-title="ARGENTINA",ARG Disney Junior
+http://ns1111.xyz:80/live/aziz22/22aziz/73296.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Disney XD" tvg-logo="" group-title="ARGENTINA",ARG: Disney XD
+http://ns1111.xyz:80/live/aziz22/22aziz/73297.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG Disney XD" tvg-logo="" group-title="ARGENTINA",ARG Disney XD
+http://ns1111.xyz:80/live/aziz22/22aziz/73298.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DW TV" tvg-logo="" group-title="ARGENTINA",ARG: DW TV
+http://ns1111.xyz:80/live/aziz22/22aziz/73299.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: E!" tvg-logo="" group-title="ARGENTINA",ARG: E!
+http://ns1111.xyz:80/live/aziz22/22aziz/73300.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG E!" tvg-logo="" group-title="ARGENTINA",ARG E!
+http://ns1111.xyz:80/live/aziz22/22aziz/73301.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: El Gourmet HD" tvg-logo="" group-title="ARGENTINA",ARG: El Gourmet HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73302.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: El Trece HD" tvg-logo="" group-title="ARGENTINA",ARG: El Trece HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73303.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Elnueve vivo HD" tvg-logo="" group-title="ARGENTINA",ARG: Elnueve vivo HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73304.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Encuentro" tvg-logo="" group-title="ARGENTINA",ARG: Encuentro
+http://ns1111.xyz:80/live/aziz22/22aziz/73305.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2 HD" tvg-logo="" group-title="ARGENTINA",ARG: ESPN 2 HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73306.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG ESPN 2 HD" tvg-logo="" group-title="ARGENTINA",ARG ESPN 2 HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73307.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3 HD" tvg-logo="" group-title="ARGENTINA",ARG: ESPN 3 HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73308.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG ESPN 3 HD" tvg-logo="" group-title="ARGENTINA",ARG ESPN 3 HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73309.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Extra" tvg-logo="" group-title="ARGENTINA",ARG: ESPN Extra
+http://ns1111.xyz:80/live/aziz22/22aziz/73310.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG ESPN Extra" tvg-logo="" group-title="ARGENTINA",ARG ESPN Extra
+http://ns1111.xyz:80/live/aziz22/22aziz/73311.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN HD" tvg-logo="" group-title="ARGENTINA",ARG: ESPN HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73312.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG ESPN HD" tvg-logo="" group-title="ARGENTINA",ARG ESPN HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73313.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Europa Europa" tvg-logo="" group-title="ARGENTINA",ARG: Europa Europa
+http://ns1111.xyz:80/live/aziz22/22aziz/73314.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Film & Arts" tvg-logo="" group-title="ARGENTINA",ARG: Film & Arts
+http://ns1111.xyz:80/live/aziz22/22aziz/73315.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Fox News Channel" tvg-logo="" group-title="ARGENTINA",ARG: Fox News Channel
+http://ns1111.xyz:80/live/aziz22/22aziz/73316.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FX HD" tvg-logo="" group-title="ARGENTINA",ARG: FX HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73317.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FXM HD" tvg-logo="" group-title="ARGENTINA",ARG: FXM HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73318.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Garage TV" tvg-logo="" group-title="ARGENTINA",ARG: Garage TV
+http://ns1111.xyz:80/live/aziz22/22aziz/73319.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Glitz" tvg-logo="" group-title="ARGENTINA",ARG: Glitz
+http://ns1111.xyz:80/live/aziz22/22aziz/73320.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Golf Channel HD" tvg-logo="" group-title="ARGENTINA",ARG: Golf Channel HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73321.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: " tvg-logo="" group-title="ARGENTINA",ARG: HBO
+http://ns1111.xyz:80/live/aziz22/22aziz/73322.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO 2 HD" tvg-logo="" group-title="ARGENTINA",ARG: HBO 2 HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73323.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Family" tvg-logo="" group-title="ARGENTINA",ARG: HBO Family
+http://ns1111.xyz:80/live/aziz22/22aziz/73324.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Mundi HD" tvg-logo="" group-title="ARGENTINA",ARG: HBO Mundi HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73325.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Pop HD" tvg-logo="" group-title="ARGENTINA",ARG: HBO Pop HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73326.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Signature" tvg-logo="" group-title="ARGENTINA",ARG: HBO Signature
+http://ns1111.xyz:80/live/aziz22/22aziz/73327.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Xtreme FHD" tvg-logo="" group-title="ARGENTINA",ARG: HBO Xtreme FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73328.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: History 2" tvg-logo="" group-title="ARGENTINA",ARG: History 2
+http://ns1111.xyz:80/live/aziz22/22aziz/73329.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG History 2" tvg-logo="" group-title="ARGENTINA",ARG History 2
+http://ns1111.xyz:80/live/aziz22/22aziz/73330.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: History FHD" tvg-logo="" group-title="ARGENTINA",ARG: History FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73331.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG History FHD" tvg-logo="" group-title="ARGENTINA",ARG History FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73332.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HTV" tvg-logo="" group-title="ARGENTINA",ARG: HTV
+http://ns1111.xyz:80/live/aziz22/22aziz/73333.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: I sat" tvg-logo="" group-title="ARGENTINA",ARG: I sat
+http://ns1111.xyz:80/live/aziz22/22aziz/73334.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Investigation Discovery HD" tvg-logo="" group-title="ARGENTINA",ARG: Investigation Discovery HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73335.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG Investigation Discovery HD" tvg-logo="" group-title="ARGENTINA",ARG Investigation Discovery HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73336.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Lifetime" tvg-logo="" group-title="ARGENTINA",ARG: Lifetime
+http://ns1111.xyz:80/live/aziz22/22aziz/73337.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: LN+" tvg-logo="" group-title="ARGENTINA",ARG: LN+
+http://ns1111.xyz:80/live/aziz22/22aziz/73338.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Mas Chic" tvg-logo="" group-title="ARGENTINA",ARG: Mas Chic
+http://ns1111.xyz:80/live/aziz22/22aziz/73339.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV" tvg-logo="" group-title="ARGENTINA",ARG: MTV
+http://ns1111.xyz:80/live/aziz22/22aziz/73340.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV Hits" tvg-logo="" group-title="ARGENTINA",ARG: MTV Hits
+http://ns1111.xyz:80/live/aziz22/22aziz/73341.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG MTV Hits" tvg-logo="" group-title="ARGENTINA",ARG MTV Hits
+http://ns1111.xyz:80/live/aziz22/22aziz/73342.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Much Argentina" tvg-logo="" group-title="ARGENTINA",ARG: Much Argentina
+http://ns1111.xyz:80/live/aziz22/22aziz/73343.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Multivision HD" tvg-logo="" group-title="ARGENTINA",ARG: Multivision HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73344.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Music Top FHD" tvg-logo="" group-title="ARGENTINA",ARG: Music Top FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73345.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG Music Top FHD" tvg-logo="" group-title="ARGENTINA",ARG Music Top FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73346.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO HD" tvg-logo="" group-title="ARGENTINA",ARG: NAT GEO HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73347.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG NAT GEO HD" tvg-logo="" group-title="ARGENTINA",ARG NAT GEO HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73348.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO Kids HD" tvg-logo="" group-title="ARGENTINA",ARG: NAT GEO Kids HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73349.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG NAT GEO Kids HD" tvg-logo="" group-title="ARGENTINA",ARG NAT GEO Kids HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73350.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO Wild FHD" tvg-logo="" group-title="ARGENTINA",ARG: NAT GEO Wild FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73351.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG NAT GEO Wild FHD" tvg-logo="" group-title="ARGENTINA",ARG NAT GEO Wild FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73352.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Net TV HD" tvg-logo="" group-title="ARGENTINA",ARG: Net TV HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73353.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Nick Junior" tvg-logo="" group-title="ARGENTINA",ARG: Nick Junior
+http://ns1111.xyz:80/live/aziz22/22aziz/73354.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG Nick Junior" tvg-logo="" group-title="ARGENTINA",ARG Nick Junior
+http://ns1111.xyz:80/live/aziz22/22aziz/73355.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: nickelodeon" tvg-logo="" group-title="ARGENTINA",ARG: nickelodeon
+http://ns1111.xyz:80/live/aziz22/22aziz/73356.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG nickelodeon" tvg-logo="" group-title="ARGENTINA",ARG nickelodeon
+http://ns1111.xyz:80/live/aziz22/22aziz/73357.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Pakapaka HD" tvg-logo="" group-title="ARGENTINA",ARG: Pakapaka HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73358.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Paramount Network" tvg-logo="" group-title="ARGENTINA",ARG: Paramount Network
+http://ns1111.xyz:80/live/aziz22/22aziz/73359.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Quiero Musica en mi Idioma HD" tvg-logo="" group-title="ARGENTINA",ARG: Quiero Musica en mi Idioma HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73360.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG Quiero Musica en mi Idioma HD" tvg-logo="" group-title="ARGENTINA",ARG Quiero Musica en mi Idioma HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73361.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: RTN" tvg-logo="" group-title="ARGENTINA",ARG: RTN
+http://ns1111.xyz:80/live/aziz22/22aziz/73362.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Senado" tvg-logo="" group-title="ARGENTINA",ARG: Senado
+http://ns1111.xyz:80/live/aziz22/22aziz/73363.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Sony" tvg-logo="" group-title="ARGENTINA",ARG: Sony
+http://ns1111.xyz:80/live/aziz22/22aziz/73364.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Studio Universal" tvg-logo="" group-title="ARGENTINA",ARG: Studio Universal
+http://ns1111.xyz:80/live/aziz22/22aziz/73365.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="" group-title="ARGENTINA",ARG: SYFY
+http://ns1111.xyz:80/live/aziz22/22aziz/73366.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TBS America Latina" tvg-logo="" group-title="ARGENTINA",ARG: TBS America Latina
+http://ns1111.xyz:80/live/aziz22/22aziz/73367.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TCM America Latina" tvg-logo="" group-title="ARGENTINA",ARG: TCM America Latina
+http://ns1111.xyz:80/live/aziz22/22aziz/73368.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TeenNick FHD" tvg-logo="" group-title="ARGENTINA",ARG: TeenNick FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73369.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG TeenNick FHD" tvg-logo="" group-title="ARGENTINA",ARG TeenNick FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73370.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Telefe FHD" tvg-logo="" group-title="ARGENTINA",ARG: Telefe FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73371.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Telemax HD" tvg-logo="" group-title="ARGENTINA",ARG: Telemax HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73372.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Telemundo" tvg-logo="" group-title="ARGENTINA",ARG: Telemundo
+http://ns1111.xyz:80/live/aziz22/22aziz/73373.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Telesur FHD" tvg-logo="" group-title="ARGENTINA",ARG: Telesur FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73374.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT HD" tvg-logo="" group-title="ARGENTINA",ARG: TNT HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73375.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT Series HD" tvg-logo="" group-title="ARGENTINA",ARG: TNT Series HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73376.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT Sports HD" tvg-logo="" group-title="ARGENTINA",ARG: TNT Sports HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73377.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Todo Noticias" tvg-logo="" group-title="ARGENTINA",ARG: Todo Noticias
+http://ns1111.xyz:80/live/aziz22/22aziz/73378.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Tooncast" tvg-logo="" group-title="ARGENTINA",ARG: Tooncast
+http://ns1111.xyz:80/live/aziz22/22aziz/73379.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TR Telered HD" tvg-logo="" group-title="ARGENTINA",ARG: TR Telered HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73380.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Tru TV HD" tvg-logo="" group-title="ARGENTINA",ARG: Tru TV HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73381.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV Publica FHD" tvg-logo="" group-title="ARGENTINA",ARG: TV Publica FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73382.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV5Monde" tvg-logo="" group-title="ARGENTINA",ARG: TV5Monde
+http://ns1111.xyz:80/live/aziz22/22aziz/73383.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TyC Sports FHD" tvg-logo="" group-title="ARGENTINA",ARG: TyC Sports FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73384.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG TyC Sports FHD" tvg-logo="" group-title="ARGENTINA",ARG TyC Sports FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/73385.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Universal TV" tvg-logo="" group-title="ARGENTINA",ARG: Universal TV
+http://ns1111.xyz:80/live/aziz22/22aziz/73386.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: VH1" tvg-logo="" group-title="ARGENTINA",ARG: VH1
+http://ns1111.xyz:80/live/aziz22/22aziz/73387.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG VH1" tvg-logo="" group-title="ARGENTINA",ARG VH1
+http://ns1111.xyz:80/live/aziz22/22aziz/73388.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: VH1 Megahits" tvg-logo="" group-title="ARGENTINA",ARG: VH1 Megahits
+http://ns1111.xyz:80/live/aziz22/22aziz/73389.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG VH1 Megahits" tvg-logo="" group-title="ARGENTINA",ARG VH1 Megahits
+http://ns1111.xyz:80/live/aziz22/22aziz/73390.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Volver" tvg-logo="" group-title="ARGENTINA",ARG: Volver
+http://ns1111.xyz:80/live/aziz22/22aziz/73391.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Warner Bros HD" tvg-logo="" group-title="ARGENTINA",ARG: Warner Bros HD
+http://ns1111.xyz:80/live/aziz22/22aziz/73392.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Capital HD" tvg-logo="" group-title="COLOMBIA",CO: Canal Capital HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81215.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal TRO HD" tvg-logo="" group-title="COLOMBIA",CO: Canal TRO HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81216.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol TV HD" tvg-logo="" group-title="COLOMBIA",CO: Caracol TV HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81217.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol TV Internacional FHD" tvg-logo="" group-title="COLOMBIA",CO: Caracol TV Internacional FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81218.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: City TV HD" tvg-logo="" group-title="COLOMBIA",CO: City TV HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81219.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: CNC Pasto HD" tvg-logo="" group-title="COLOMBIA",CO: CNC Pasto HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81220.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Cristovision HD" tvg-logo="" group-title="COLOMBIA",CO: Cristovision HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81221.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Discovery H&H FHD" tvg-logo="" group-title="COLOMBIA",CO: Discovery H&H FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81222.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO Discovery H&H FHD" tvg-logo="" group-title="COLOMBIA",CO Discovery H&H FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81223.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Discovery Kids HD" tvg-logo="" group-title="COLOMBIA",CO: Discovery Kids HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81224.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO Discovery Kids HD" tvg-logo="" group-title="COLOMBIA",CO Discovery Kids HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81225.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Discovery Theater FHD" tvg-logo="" group-title="COLOMBIA",CO: Discovery Theater FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81226.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO Discovery Theater FHD" tvg-logo="" group-title="COLOMBIA",CO Discovery Theater FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81227.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Discovery World HD" tvg-logo="" group-title="COLOMBIA",CO: Discovery World HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81228.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO Discovery World HD" tvg-logo="" group-title="COLOMBIA",CO Discovery World HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81229.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: La Kalle HD" tvg-logo="" group-title="COLOMBIA",CO: La Kalle HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81230.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: La Red FHD" tvg-logo="" group-title="COLOMBIA",CO: La Red FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81231.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Lifetime HD" tvg-logo="" group-title="COLOMBIA",CO: Lifetime HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81232.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: NAT GEO Wild FHD" tvg-logo="" group-title="COLOMBIA",CO: NAT GEO Wild FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81233.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO NAT GEO Wild FHD" tvg-logo="" group-title="COLOMBIA",CO NAT GEO Wild FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81234.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: NTN 24 HD" tvg-logo="" group-title="COLOMBIA",CO: NTN 24 HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81235.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Pasiones FHD" tvg-logo="" group-title="COLOMBIA",CO: Pasiones FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81236.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Novelas HD" tvg-logo="" group-title="COLOMBIA",CO: RCN Novelas HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81237.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN TV FHD" tvg-logo="" group-title="COLOMBIA",CO: RCN TV FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81238.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Senal Colombia HD" tvg-logo="" group-title="COLOMBIA",CO: Senal Colombia HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81239.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Suram TV FHD" tvg-logo="" group-title="COLOMBIA",CO: Suram TV FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81240.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: TeenNick FHD" tvg-logo="" group-title="COLOMBIA",CO: TeenNick FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81241.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO TeenNick FHD" tvg-logo="" group-title="COLOMBIA",CO TeenNick FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81242.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Tele Vid HD" tvg-logo="" group-title="COLOMBIA",CO: Tele Vid HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81243.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Teleantioquia HD" tvg-logo="" group-title="COLOMBIA",CO: Teleantioquia HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81244.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telecafe HD" tvg-logo="" group-title="COLOMBIA",CO: Telecafe HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81245.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telecaribe HD" tvg-logo="" group-title="COLOMBIA",CO: Telecaribe HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81246.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telemedellin FHD" tvg-logo="" group-title="COLOMBIA",CO: Telemedellin FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81247.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telepacifico HD" tvg-logo="" group-title="COLOMBIA",CO: Telepacifico HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81248.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Trece FHD" tvg-logo="" group-title="COLOMBIA",CO: Trece FHD
+http://ns1111.xyz:80/live/aziz22/22aziz/81249.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Win Sports HD" tvg-logo="" group-title="COLOMBIA",CO: Win Sports HD
+http://ns1111.xyz:80/live/aziz22/22aziz/81250.ts
+#EXTINF:-1,P | Universal Comedy
+http://nmstreaming.us:25461/gffert/QrWrTP8dB3/2081444
+#EXTINF:-1,P | Universal Crime Este
+http://nmstreaming.us:25461/gffert/QrWrTP8dB3/2081445
+#EXTINF:-1,P | Universal Premier Este
+http://nmstreaming.us:25461/gffert/QrWrTP8dB3/2081446
+#EXTINF:-1,P | Universal Reality
+http://nmstreaming.us:25461/gffert/QrWrTP8dB3/2081447
+#EXTINF:-1,P | Universal Cinema
+http://nmstreaming.us:25461/gffert/QrWrTP8dB3/2081448
+#EXTINF:-1,P | Universal Crime Oeste
+http://nmstreaming.us:25461/gffert/QrWrTP8dB3/2081449
+#EXTINF:-1,P | Universal Premier Oeste
+http://nmstreaming.us:25461/gffert/QrWrTP8dB3/2081450
+#EXTINF:-1,CO | Win Sports + HD
+http://nmstreaming.us:25461/COFRAS/683ehXxVHS/12257
+#EXTINF:-1,P | HBO. FHD
+http://nmstreaming.us:25461/COFRAS/683ehXxVHS/154113
+#EXTINF:-1,P | HBO + FHD
+http://nmstreaming.us:25461/COFRAS/683ehXxVHS/154115
+#EXTINF:-1,P | HBO 2 FHD
+http://nmstreaming.us:25461/COFRAS/683ehXxVHS/155165
+#EXTINF:-1,P | HBO Family FHD
+http://nmstreaming.us:25461/COFRAS/683ehXxVHS/155166
+#EXTINF:-1,P | HBO POP FHD
+http://nmstreaming.us:25461/COFRAS/683ehXxVHS/155168
+#EXTINF:-1,P | HBO Signature FHD
+http://nmstreaming.us:25461/COFRAS/683ehXxVHS/155170
+#EXTINF:-1,Latino: A&E FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27628
+#EXTINF:-1,Latino: A&E HD
+http://goldiptv.online:8080/mevlut/mevlut123/27627
+#EXTINF:-1,Latino: Al Jazeera
+http://goldiptv.online:8080/mevlut/mevlut123/27626
+#EXTINF:-1,Latino: AMC
+http://goldiptv.online:8080/mevlut/mevlut123/27625
+#EXTINF:-1,Latino: AMC FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27624
+#EXTINF:-1,Latino: AMC HD
+http://goldiptv.online:8080/mevlut/mevlut123/27623
+#EXTINF:-1,Latino: Animal Planet
+http://goldiptv.online:8080/mevlut/mevlut123/27622
+#EXTINF:-1,Latino: Animal Planet FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27621
+#EXTINF:-1,Latino: Animal Planet HD
+http://goldiptv.online:8080/mevlut/mevlut123/27620
+#EXTINF:-1,Latino: Antena 3 Internacional
+http://goldiptv.online:8080/mevlut/mevlut123/27619
+#EXTINF:-1,Latino: Arirang
+http://goldiptv.online:8080/mevlut/mevlut123/27618
+#EXTINF:-1,Latino: AXN
+http://goldiptv.online:8080/mevlut/mevlut123/27617
+#EXTINF:-1,Latino: AXN FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27616
+#EXTINF:-1,Latino: AXN HD
+http://goldiptv.online:8080/mevlut/mevlut123/27615
+#EXTINF:-1,Latino: Az Corazon
+http://goldiptv.online:8080/mevlut/mevlut123/27614
+#EXTINF:-1,Latino: Az Corazon FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27613
+#EXTINF:-1,Latino: Az Corazon HD
+http://goldiptv.online:8080/mevlut/mevlut123/27612
+#EXTINF:-1,Latino: Az Mundo
+http://goldiptv.online:8080/mevlut/mevlut123/27611
+#EXTINF:-1,Latino: Azteca Mundo FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27610
+#EXTINF:-1,Latino: Azteca Mundo HD
+http://goldiptv.online:8080/mevlut/mevlut123/27609
+#EXTINF:-1,Latino: Baby TV
+http://goldiptv.online:8080/mevlut/mevlut123/27608
+#EXTINF:-1,Latino: BBC World
+http://goldiptv.online:8080/mevlut/mevlut123/27607
+#EXTINF:-1,Latino: Bloomberg
+http://goldiptv.online:8080/mevlut/mevlut123/27606
+#EXTINF:-1,Latino: Canal Claro
+http://goldiptv.online:8080/mevlut/mevlut123/27605
+#EXTINF:-1,Latino: Canal Claro FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27604
+#EXTINF:-1,Latino: Canal Claro HD
+http://goldiptv.online:8080/mevlut/mevlut123/27603
+#EXTINF:-1,Latino: Canal de las estrellas Latinoo
+http://goldiptv.online:8080/mevlut/mevlut123/27602
+#EXTINF:-1,Latino: Cartoon Network
+http://goldiptv.online:8080/mevlut/mevlut123/27601
+#EXTINF:-1,Latino: Cartoon Network FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27600
+#EXTINF:-1,Latino: Cartoon Network HD
+http://goldiptv.online:8080/mevlut/mevlut123/27599
+#EXTINF:-1,Latino: Cine Canal
+http://goldiptv.online:8080/mevlut/mevlut123/27598
+#EXTINF:-1,Latino: Cine canal FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27597
+#EXTINF:-1,Latino: Cine canal HD
+http://goldiptv.online:8080/mevlut/mevlut123/27596
+#EXTINF:-1,Latino: Cine Latinoo
+http://goldiptv.online:8080/mevlut/mevlut123/27595
+#EXTINF:-1,Latino: Cinema 01 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27594
+#EXTINF:-1,Latino: Cinema 02 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27593
+#EXTINF:-1,Latino: Cinema 03 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27592
+#EXTINF:-1,Latino: Cinema 04 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27591
+#EXTINF:-1,Latino: Cinema 05 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27590
+#EXTINF:-1,Latino: Cinema 06 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27589
+#EXTINF:-1,Latino: Cinema 07 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27588
+#EXTINF:-1,Latino: Cinema 08 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27587
+#EXTINF:-1,Latino: Cinema 09 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27586
+#EXTINF:-1,Latino: Cinema 10 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27585
+#EXTINF:-1,Latino: Cinema 11 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27584
+#EXTINF:-1,Latino: Cinema 12 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27583
+#EXTINF:-1,Latino: Cinema 13 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27582
+#EXTINF:-1,Latino: Cinema 14 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27581
+#EXTINF:-1,Latino: Cinema 15 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27580
+#EXTINF:-1,Latino: Cinema 16 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27579
+#EXTINF:-1,Latino: Cinema 17 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27578
+#EXTINF:-1,Latino: Cinema 18 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27577
+#EXTINF:-1,Latino: Cinema 19 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27576
+#EXTINF:-1,Latino: Cinema 20 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27575
+#EXTINF:-1,Latino: Cinema 21 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27574
+#EXTINF:-1,Latino: Cinema 22 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27573
+#EXTINF:-1,Latino: Cinema 23 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27572
+#EXTINF:-1,Latino: Cinema 24 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27571
+#EXTINF:-1,Latino: Cinema 25 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27570
+#EXTINF:-1,Latino: Cinema 26 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27569
+#EXTINF:-1,Latino: Cinema 27 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27568
+#EXTINF:-1,Latino: Cinema 28 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27567
+#EXTINF:-1,Latino: Cinema 29 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27566
+#EXTINF:-1,Latino: Cinema 30 PPV
+http://goldiptv.online:8080/mevlut/mevlut123/27565
+#EXTINF:-1,Latino: Cinemax
+http://goldiptv.online:8080/mevlut/mevlut123/27564
+#EXTINF:-1,Latino: Cinemax Action East FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27563
+#EXTINF:-1,Latino: Cinemax FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27562
+#EXTINF:-1,Latino: City TV
+http://goldiptv.online:8080/mevlut/mevlut123/27561
+#EXTINF:-1,Latino: Claro Cinema
+http://goldiptv.online:8080/mevlut/mevlut123/27560
+#EXTINF:-1,Latino: Claro Music 1
+http://goldiptv.online:8080/mevlut/mevlut123/27559
+#EXTINF:-1,Latino: Claro Music 2
+http://goldiptv.online:8080/mevlut/mevlut123/27558
+#EXTINF:-1,Latino: Claro Sports
+http://goldiptv.online:8080/mevlut/mevlut123/27557
+#EXTINF:-1,Latino: Claro Sports 2 HD
+http://goldiptv.online:8080/mevlut/mevlut123/27556
+#EXTINF:-1,Latino: Claro Sports HD
+http://goldiptv.online:8080/mevlut/mevlut123/27555
+#EXTINF:-1,Latino: Claro Sports 2 Latinooamerica
+http://goldiptv.online:8080/mevlut/mevlut123/27554
+#EXTINF:-1,Latino: Claro Sports Latinooamerica FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27553
+#EXTINF:-1,Latino: Claro Sports Latinooamerica HD
+http://goldiptv.online:8080/mevlut/mevlut123/27552
+#EXTINF:-1,Latino: CNN Espanol
+http://goldiptv.online:8080/mevlut/mevlut123/27551
+#EXTINF:-1,Latino: CNN Internacional
+http://goldiptv.online:8080/mevlut/mevlut123/27550
+#EXTINF:-1,Latino: Comedy Central
+http://goldiptv.online:8080/mevlut/mevlut123/27549
+#EXTINF:-1,Latino: Comedy Central FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27548
+#EXTINF:-1,Latino: Comedy Central HD
+http://goldiptv.online:8080/mevlut/mevlut123/27547
+#EXTINF:-1,Latino: Concert Channel
+http://goldiptv.online:8080/mevlut/mevlut123/27546
+#EXTINF:-1,Latino: Concert Channel FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27545
+#EXTINF:-1,Latino: Concert Channel HD
+http://goldiptv.online:8080/mevlut/mevlut123/27544
+#EXTINF:-1,Latino: De Pelicula
+http://goldiptv.online:8080/mevlut/mevlut123/27543
+#EXTINF:-1,Latino: DHE
+http://goldiptv.online:8080/mevlut/mevlut123/27542
+#EXTINF:-1,Latino: DHE FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27541
+#EXTINF:-1,Latino: DHE HD
+http://goldiptv.online:8080/mevlut/mevlut123/27540
+#EXTINF:-1,Latino: Dia TV
+http://goldiptv.online:8080/mevlut/mevlut123/27539
+#EXTINF:-1,Latino: DIRECTV Sports 1
+http://goldiptv.online:8080/mevlut/mevlut123/27538
+#EXTINF:-1,Latino: DIRECTV Sports 2
+http://goldiptv.online:8080/mevlut/mevlut123/27537
+#EXTINF:-1,Latino: DIRECTV Sports Plus
+http://goldiptv.online:8080/mevlut/mevlut123/27536
+#EXTINF:-1,Latino: Discovery en espanol
+http://goldiptv.online:8080/mevlut/mevlut123/27535
+#EXTINF:-1,Latino: Discovery Channel FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27534
+#EXTINF:-1,Latino: Discovery Channel HD
+http://goldiptv.online:8080/mevlut/mevlut123/27533
+#EXTINF:-1,Latino: Discovery Home and Health
+http://goldiptv.online:8080/mevlut/mevlut123/27532
+#EXTINF:-1,Latino: Discovery Home and Health FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27531
+#EXTINF:-1,Latino: Discovery Home and Health HD
+http://goldiptv.online:8080/mevlut/mevlut123/27530
+#EXTINF:-1,Latino: Discovery Kids
+http://goldiptv.online:8080/mevlut/mevlut123/27529
+#EXTINF:-1,Latino: Discovery Kids FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27528
+#EXTINF:-1,Latino: Discovery Kids HD
+http://goldiptv.online:8080/mevlut/mevlut123/27527
+#EXTINF:-1,Latino: Discovery Science
+http://goldiptv.online:8080/mevlut/mevlut123/27526
+#EXTINF:-1,Latino: Discovery Theater
+http://goldiptv.online:8080/mevlut/mevlut123/27525
+#EXTINF:-1,Latino: Discovery Theater FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27524
+#EXTINF:-1,Latino: Discovery Theater HD
+http://goldiptv.online:8080/mevlut/mevlut123/27523
+#EXTINF:-1,Latino: Discovery Turbo
+http://goldiptv.online:8080/mevlut/mevlut123/27522
+#EXTINF:-1,Latino: Discovery World
+http://goldiptv.online:8080/mevlut/mevlut123/27521
+#EXTINF:-1,Latino: Discovery World FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27520
+#EXTINF:-1,Latino: Discovery World HD
+http://goldiptv.online:8080/mevlut/mevlut123/27519
+#EXTINF:-1,Latino: Disney Chanel FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27518
+#EXTINF:-1,Latino: Disney Chanel HD
+http://goldiptv.online:8080/mevlut/mevlut123/27517
+#EXTINF:-1,Latino: Disney HD
+http://goldiptv.online:8080/mevlut/mevlut123/27516
+#EXTINF:-1,Latino: Disney JR
+http://goldiptv.online:8080/mevlut/mevlut123/27515
+#EXTINF:-1,Latino: Disney XD
+http://goldiptv.online:8080/mevlut/mevlut123/27514
+#EXTINF:-1,Latino: DW
+http://goldiptv.online:8080/mevlut/mevlut123/27513
+#EXTINF:-1,Latino: Distrito Comedia
+http://goldiptv.online:8080/mevlut/mevlut123/27512
+#EXTINF:-1,Latino: E !
+http://goldiptv.online:8080/mevlut/mevlut123/27511
+#EXTINF:-1,Latino: El Gourmet
+http://goldiptv.online:8080/mevlut/mevlut123/27510
+#EXTINF:-1,Latino: El Gourmet FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27509
+#EXTINF:-1,Latino: El Gourmet HD
+http://goldiptv.online:8080/mevlut/mevlut123/27508
+#EXTINF:-1,Latino: Espn 1 FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27507
+#EXTINF:-1,Latino: Espn 1 Sur
+http://goldiptv.online:8080/mevlut/mevlut123/27506
+#EXTINF:-1,Latino: Espn 1 Sur HD
+http://goldiptv.online:8080/mevlut/mevlut123/27505
+#EXTINF:-1,Latino: Espn 2 Sur
+http://goldiptv.online:8080/mevlut/mevlut123/27504
+#EXTINF:-1,Latino: Espn 2 FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27503
+#EXTINF:-1,Latino: Espn 2 Sur HD
+http://goldiptv.online:8080/mevlut/mevlut123/27502
+#EXTINF:-1,Latino: Espn 3 Sur
+http://goldiptv.online:8080/mevlut/mevlut123/27501
+#EXTINF:-1,Latino: Espn 3 FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27500
+#EXTINF:-1,Latino: Espn 3 Sur HD
+http://goldiptv.online:8080/mevlut/mevlut123/27499
+#EXTINF:-1,Latino: Espn Extra Sur
+http://goldiptv.online:8080/mevlut/mevlut123/27498
+#EXTINF:-1,Latino: Espn Extra Sur FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27497
+#EXTINF:-1,Latino: Espn Plus Sur HD
+http://goldiptv.online:8080/mevlut/mevlut123/27496
+#EXTINF:-1,Latino: Euro Channel
+http://goldiptv.online:8080/mevlut/mevlut123/27495
+#EXTINF:-1,Latino: Fox
+http://goldiptv.online:8080/mevlut/mevlut123/27494
+#EXTINF:-1,Latino: Fox Cinema Subtitulado
+http://goldiptv.online:8080/mevlut/mevlut123/27493
+#EXTINF:-1,Latino: Fox Cinema Subtitulado FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27492
+#EXTINF:-1,Latino: Fox Cinema Subtitulado HD
+http://goldiptv.online:8080/mevlut/mevlut123/27491
+#EXTINF:-1,Latino: Fox FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27490
+#EXTINF:-1,Latino: Fox HD
+http://goldiptv.online:8080/mevlut/mevlut123/27489
+#EXTINF:-1,Latino: Fox Life
+http://goldiptv.online:8080/mevlut/mevlut123/27488
+#EXTINF:-1,Latino: Fox Life FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27487
+#EXTINF:-1,Latino: Fox Life HD
+http://goldiptv.online:8080/mevlut/mevlut123/27486
+#EXTINF:-1,Latino: Fox Life Mex
+http://goldiptv.online:8080/mevlut/mevlut123/27485
+#EXTINF:-1,Latino: Fox Life Mex FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27484
+#EXTINF:-1,Latino: Fox Life Mex HD
+http://goldiptv.online:8080/mevlut/mevlut123/27483
+#EXTINF:-1,Latino: Fox News
+http://goldiptv.online:8080/mevlut/mevlut123/27482
+#EXTINF:-1,Latino: Fox Premium Action
+http://goldiptv.online:8080/mevlut/mevlut123/27481
+#EXTINF:-1,Latino: Fox Premium Action FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27480
+#EXTINF:-1,Latino: Fox Premium Action HD
+http://goldiptv.online:8080/mevlut/mevlut123/27479
+#EXTINF:-1,Latino: Fox Premium Action MX
+http://goldiptv.online:8080/mevlut/mevlut123/27478
+#EXTINF:-1,Latino: Fox Premium Action MX FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27477
+#EXTINF:-1,Latino: Fox Premium Action MX HD
+http://goldiptv.online:8080/mevlut/mevlut123/27476
+#EXTINF:-1,Latino: Fox Premium Cinema
+http://goldiptv.online:8080/mevlut/mevlut123/27475
+#EXTINF:-1,Latino: Fox Premium Cinema FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27474
+#EXTINF:-1,Latino: Fox Premium Cinema HD
+http://goldiptv.online:8080/mevlut/mevlut123/27473
+#EXTINF:-1,Latino: Fox Premium Classics
+http://goldiptv.online:8080/mevlut/mevlut123/27472
+#EXTINF:-1,Latino: Fox Premium Classics FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27471
+#EXTINF:-1,Latino: Fox Premium Classics HD
+http://goldiptv.online:8080/mevlut/mevlut123/27470
+#EXTINF:-1,Latino: Fox Premium Comedy
+http://goldiptv.online:8080/mevlut/mevlut123/27469
+#EXTINF:-1,Latino: Fox Premium Comedy FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27468
+#EXTINF:-1,Latino: Fox Premium Comedy HD
+http://goldiptv.online:8080/mevlut/mevlut123/27467
+#EXTINF:-1,Latino: Fox Premium Family
+http://goldiptv.online:8080/mevlut/mevlut123/27466
+#EXTINF:-1,Latino: Fox Premium Family FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27465
+#EXTINF:-1,Latino: Fox Premium Family HD
+http://goldiptv.online:8080/mevlut/mevlut123/27464
+#EXTINF:-1,Latino: Fox Premium Movies
+http://goldiptv.online:8080/mevlut/mevlut123/27463
+#EXTINF:-1,Latino: Fox Premium Movies FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27462
+#EXTINF:-1,Latino: Fox Premium Movies HD
+http://goldiptv.online:8080/mevlut/mevlut123/27461
+#EXTINF:-1,Latino: Fox Premium Series
+http://goldiptv.online:8080/mevlut/mevlut123/27460
+#EXTINF:-1,Latino: Fox Premium Series FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27459
+#EXTINF:-1,Latino: Fox Premium Series HD
+http://goldiptv.online:8080/mevlut/mevlut123/27458
+#EXTINF:-1,Latino: Fox Premium Series Subtitulado
+http://goldiptv.online:8080/mevlut/mevlut123/27457
+#EXTINF:-1,Latino: Fox Premium Series Subtitulado FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27456
+#EXTINF:-1,Latino: Fox Premium Series Subtitulado HD
+http://goldiptv.online:8080/mevlut/mevlut123/27455
+#EXTINF:-1,Latino: Fox Sports 1 MX
+http://goldiptv.online:8080/mevlut/mevlut123/27454
+#EXTINF:-1,Latino: Fox Sports 1 MX FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27453
+#EXTINF:-1,Latino: Fox Sports 1 MX HD
+http://goldiptv.online:8080/mevlut/mevlut123/27452
+#EXTINF:-1,Latino: Fox Sports 1 Sur
+http://goldiptv.online:8080/mevlut/mevlut123/27451
+#EXTINF:-1,Latino: Fox Sports 1 ARG FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27450
+#EXTINF:-1,Latino: Fox Sports 1 Sur HD
+http://goldiptv.online:8080/mevlut/mevlut123/27449
+#EXTINF:-1,Latino: Fox Sports 2 MX
+http://goldiptv.online:8080/mevlut/mevlut123/27448
+#EXTINF:-1,Latino: Fox Sports 2 MX FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27447
+#EXTINF:-1,Latino: Fox Sports 2 MX HD
+http://goldiptv.online:8080/mevlut/mevlut123/27446
+#EXTINF:-1,Latino: Fox Sports 2 Sur
+http://goldiptv.online:8080/mevlut/mevlut123/27445
+#EXTINF:-1,Latino: Fox Sports 2 ARG FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27444
+#EXTINF:-1,Latino: Fox Sports 2 Sur HD
+http://goldiptv.online:8080/mevlut/mevlut123/27443
+#EXTINF:-1,Latino: Fox Sports 3 MX
+http://goldiptv.online:8080/mevlut/mevlut123/27442
+#EXTINF:-1,Latino: Fox Sports 3 MX FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27441
+#EXTINF:-1,Latino: Fox Sports 3 MX HD
+http://goldiptv.online:8080/mevlut/mevlut123/27440
+#EXTINF:-1,Latino: Fox Sports 3 Sur
+http://goldiptv.online:8080/mevlut/mevlut123/27439
+#EXTINF:-1,Latino: Fox Sports 3 ARG FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27438
+#EXTINF:-1,Latino: Fox Sports 3 Sur HD
+http://goldiptv.online:8080/mevlut/mevlut123/27437
+#EXTINF:-1,Latino: France 24
+http://goldiptv.online:8080/mevlut/mevlut123/27436
+#EXTINF:-1,Latino: FX
+http://goldiptv.online:8080/mevlut/mevlut123/27435
+#EXTINF:-1,Latino: FX FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27434
+#EXTINF:-1,Latino: FX HD
+http://goldiptv.online:8080/mevlut/mevlut123/27433
+#EXTINF:-1,Latino: Fx Movie
+http://goldiptv.online:8080/mevlut/mevlut123/27432
+#EXTINF:-1,Latino: Fx Movie FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27431
+#EXTINF:-1,Latino: Fx Movie HD
+http://goldiptv.online:8080/mevlut/mevlut123/27430
+#EXTINF:-1,Latino: Fx Movie Mex
+http://goldiptv.online:8080/mevlut/mevlut123/27429
+#EXTINF:-1,Latino: Fx Movie Mex FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27428
+#EXTINF:-1,Latino: Fx Movie Mex HD
+http://goldiptv.online:8080/mevlut/mevlut123/27427
+#EXTINF:-1,Latino: Galavision
+http://goldiptv.online:8080/mevlut/mevlut123/27426
+#EXTINF:-1,Latino: Glitz
+http://goldiptv.online:8080/mevlut/mevlut123/27425
+#EXTINF:-1,Latino: Golden
+http://goldiptv.online:8080/mevlut/mevlut123/27424
+#EXTINF:-1,Latino: Golden Plus HD
+http://goldiptv.online:8080/mevlut/mevlut123/27423
+#EXTINF:-1,Latino: Golden EDGE
+http://goldiptv.online:8080/mevlut/mevlut123/27422
+#EXTINF:-1,Latino: Golden Premier FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27421
+#EXTINF:-1,Latino: Golden Premier HD
+http://goldiptv.online:8080/mevlut/mevlut123/27420
+#EXTINF:-1,Latino: Golden edge
+http://goldiptv.online:8080/mevlut/mevlut123/27419
+#EXTINF:-1,Latino: Golf Channel
+http://goldiptv.online:8080/mevlut/mevlut123/27418
+#EXTINF:-1,Latino: Golf Channel FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27417
+#EXTINF:-1,Latino: Golf Channel HD
+http://goldiptv.online:8080/mevlut/mevlut123/27416
+#EXTINF:-1,Latino: H2
+http://goldiptv.online:8080/mevlut/mevlut123/27415
+#EXTINF:-1 tvg-id="HBO",Latino: HBO
+http://goldiptv.online:8080/mevlut/mevlut123/27414
+#EXTINF:-1,Latino: HBO 2
+http://goldiptv.online:8080/mevlut/mevlut123/27413
+#EXTINF:-1,Latino: HBO 2 FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27412
+#EXTINF:-1,Latino: HBO 2 HD
+http://goldiptv.online:8080/mevlut/mevlut123/27411
+#EXTINF:-1 tvg-id="HBO Family",Latino: HBO Family
+http://goldiptv.online:8080/mevlut/mevlut123/27410
+#EXTINF:-1,Latino: HBO Family FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27409
+#EXTINF:-1,Latino: HBO Family HD
+http://goldiptv.online:8080/mevlut/mevlut123/27408
+#EXTINF:-1,Latino: HBO FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27407
+#EXTINF:-1,Latino: HBO HD
+http://goldiptv.online:8080/mevlut/mevlut123/27406
+#EXTINF:-1,Latino: HBO plus
+http://190.83.119.67:8000/play/a0ot/index.m3u8
+#EXTINF:-1,Latino: HBO Plus FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27404
+#EXTINF:-1,Latino: HBO Plus HD
+http://goldiptv.online:8080/mevlut/mevlut123/27403
+#EXTINF:-1,Latino: HBO Signature
+http://goldiptv.online:8080/mevlut/mevlut123/27402
+#EXTINF:-1,Latino: HBO Signature FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27401
+#EXTINF:-1,Latino: HBO Signature HD
+http://goldiptv.online:8080/mevlut/mevlut123/27400
+#EXTINF:-1,Latino: HBO Subtitulado
+http://goldiptv.online:8080/mevlut/mevlut123/27399
+#EXTINF:-1,Latino: HBO Subtitulado FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27398
+#EXTINF:-1,Latino: HBO Subtitulado HD
+http://goldiptv.online:8080/mevlut/mevlut123/27397
+#EXTINF:-1,Latino: History Channel
+http://goldiptv.online:8080/mevlut/mevlut123/27396
+#EXTINF:-1,Latino: History Channel FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27395
+#EXTINF:-1,Latino: History Channel HD
+http://goldiptv.online:8080/mevlut/mevlut123/27394
+#EXTINF:-1,Latino: TVC
+http://goldiptv.online:8080/mevlut/mevlut123/27393
+#EXTINF:-1,Latino: Hola TV
+http://goldiptv.online:8080/mevlut/mevlut123/27392
+#EXTINF:-1,Latino: Hola TV FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27391
+#EXTINF:-1,Latino: Hola TV HD
+http://goldiptv.online:8080/mevlut/mevlut123/27390
+#EXTINF:-1,Latino: HTV
+http://goldiptv.online:8080/mevlut/mevlut123/27389
+#EXTINF:-1,Latino: I.Sat
+http://goldiptv.online:8080/mevlut/mevlut123/27388
+#EXTINF:-1,Latino: Investigation Discovery
+http://goldiptv.online:8080/mevlut/mevlut123/27387
+#EXTINF:-1,Latino: Investigation Discovery FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27386
+#EXTINF:-1,Latino: Investigation Discovery HD
+http://goldiptv.online:8080/mevlut/mevlut123/27385
+#EXTINF:-1,Latino: Lifetime
+http://goldiptv.online:8080/mevlut/mevlut123/27384
+#EXTINF:-1,Latino: Mas Chic
+http://goldiptv.online:8080/mevlut/mevlut123/27383
+#EXTINF:-1,Latino: Mas Chic FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27382
+#EXTINF:-1,Latino: Mas Chic HD
+http://goldiptv.online:8080/mevlut/mevlut123/27381
+#EXTINF:-1,Latino: Max
+http://goldiptv.online:8080/mevlut/mevlut123/27380
+#EXTINF:-1,Latino: Max Prime
+http://goldiptv.online:8080/mevlut/mevlut123/27379
+#EXTINF:-1,Latino: Max Prime FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27378
+#EXTINF:-1,Latino: Max Prime HD
+http://goldiptv.online:8080/mevlut/mevlut123/27377
+#EXTINF:-1,Latino: Max Up
+http://goldiptv.online:8080/mevlut/mevlut123/27376
+#EXTINF:-1,Latino: Max Up FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27375
+#EXTINF:-1,Latino: Max Up HD
+http://goldiptv.online:8080/mevlut/mevlut123/27374
+#EXTINF:-1,Latino: MTV
+http://goldiptv.online:8080/mevlut/mevlut123/27373
+#EXTINF:-1,Latino: MTV FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27372
+#EXTINF:-1,Latino: MTV HD
+http://goldiptv.online:8080/mevlut/mevlut123/27371
+#EXTINF:-1,Latino: MTV Hits
+http://goldiptv.online:8080/mevlut/mevlut123/27370
+#EXTINF:-1,Latino: Mtv Live
+http://goldiptv.online:8080/mevlut/mevlut123/27369
+#EXTINF:-1,Latino: Mtv Live FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27368
+#EXTINF:-1,Latino: Mtv Live HD
+http://goldiptv.online:8080/mevlut/mevlut123/27367
+#EXTINF:-1,Latino: Multipremier
+http://goldiptv.online:8080/mevlut/mevlut123/27366
+#EXTINF:-1,Latino: Nat Geo Kids
+http://goldiptv.online:8080/mevlut/mevlut123/27365
+#EXTINF:-1,Latino: Nat Geo Kids FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27364
+#EXTINF:-1,Latino: Nat Geo Kids HD
+http://goldiptv.online:8080/mevlut/mevlut123/27363
+#EXTINF:-1,Latino: Nat Geo Kids Mex
+http://goldiptv.online:8080/mevlut/mevlut123/27362
+#EXTINF:-1,Latino: Nat Geo Kids Mex FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27361
+#EXTINF:-1,Latino: Nat Geo Kids Mex HD
+http://goldiptv.online:8080/mevlut/mevlut123/27360
+#EXTINF:-1,Latino: Nat Geo Mex
+http://goldiptv.online:8080/mevlut/mevlut123/27359
+#EXTINF:-1,Latino: Nat Geo Mex FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27358
+#EXTINF:-1,Latino: Nat Geo Mex HD
+http://goldiptv.online:8080/mevlut/mevlut123/27357
+#EXTINF:-1,Latino: Nat Geo Wild
+http://goldiptv.online:8080/mevlut/mevlut123/27356
+#EXTINF:-1,Latino: Natgeo Wild FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27355
+#EXTINF:-1,Latino: Natgeo Wild HD
+http://goldiptv.online:8080/mevlut/mevlut123/27354
+#EXTINF:-1,Latino: National Geographic Mundo
+http://goldiptv.online:8080/mevlut/mevlut123/27353
+#EXTINF:-1,Latino: National Geographic Mundo FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27352
+#EXTINF:-1,Latino: National Geographic Mundo HD
+http://goldiptv.online:8080/mevlut/mevlut123/27351
+#EXTINF:-1,Latino: Nick 2
+http://goldiptv.online:8080/mevlut/mevlut123/27350
+#EXTINF:-1,Latino: Nick 2 FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27349
+#EXTINF:-1,Latino: Nick 2 HD
+http://goldiptv.online:8080/mevlut/mevlut123/27348
+#EXTINF:-1,Latino: Nick Jr
+http://goldiptv.online:8080/mevlut/mevlut123/27347
+#EXTINF:-1,Latino: Nick Jr FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27346
+#EXTINF:-1,Latino: Nick Jr HD
+http://goldiptv.online:8080/mevlut/mevlut123/27345
+#EXTINF:-1,Latino: Nickelodeon
+http://goldiptv.online:8080/mevlut/mevlut123/27344
+#EXTINF:-1,Latino: Nickelodeon FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27343
+#EXTINF:-1,Latino: Nickelodeon HD
+http://goldiptv.online:8080/mevlut/mevlut123/27342
+#EXTINF:-1,Latino: Nicktoons
+http://goldiptv.online:8080/mevlut/mevlut123/27341
+#EXTINF:-1,Latino: Paramount Channel
+http://goldiptv.online:8080/mevlut/mevlut123/27340
+#EXTINF:-1,Latino: Paramount Channel FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27339
+#EXTINF:-1,Latino: Paramount Channel HD
+http://goldiptv.online:8080/mevlut/mevlut123/27338
+#EXTINF:-1,Latino: Pasiones
+http://goldiptv.online:8080/mevlut/mevlut123/27337
+#EXTINF:-1,Latino: Pasiones FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27336
+#EXTINF:-1,Latino: Pasiones HD
+http://goldiptv.online:8080/mevlut/mevlut123/27335
+#EXTINF:-1,Latino: TVC Deportes
+http://goldiptv.online:8080/mevlut/mevlut123/27334
+#EXTINF:-1,Latino: Ritmoson
+http://goldiptv.online:8080/mevlut/mevlut123/27333
+#EXTINF:-1,Latino: RCN Telenovelas
+http://goldiptv.online:8080/mevlut/mevlut123/27332
+#EXTINF:-1,Latino: Showtime Beyond FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27331
+#EXTINF:-1,Latino: Showtime East FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27330
+#EXTINF:-1,Latino: Showtime FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27329
+#EXTINF:-1,Latino: Showtime West FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27328
+#EXTINF:-1,VIP LAT: Sky Sports LaLiga FHD
+http://goldiptv.online:8080/mevlut/mevlut123/82846
+#EXTINF:-1,Latino: Sony
+http://goldiptv.online:8080/mevlut/mevlut123/27327
+#EXTINF:-1,Latino: Sony FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27326
+#EXTINF:-1,Latino: Sony HD
+http://goldiptv.online:8080/mevlut/mevlut123/27325
+#EXTINF:-1,Latino: Space
+http://goldiptv.online:8080/mevlut/mevlut123/27324
+#EXTINF:-1,Latino: Space FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27323
+#EXTINF:-1,Latino: Space HD
+http://goldiptv.online:8080/mevlut/mevlut123/27322
+#EXTINF:-1,Latino: Starz Cinema FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27321
+#EXTINF:-1,Latino: Starz Comedy FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27320
+#EXTINF:-1,Latino: Starz East FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27319
+#EXTINF:-1,Latino: Starz Edge FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27318
+#EXTINF:-1,Latino: Starz Encore Black FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27317
+#EXTINF:-1,Latino: Starz Encore Classic FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27316
+#EXTINF:-1,Latino: Starz Encore Action FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27315
+#EXTINF:-1,Latino: Starz Encore FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27314
+#EXTINF:-1,Latino: Starz Encore Suspense FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27313
+#EXTINF:-1,Latino: Starz Encore Western FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27312
+#EXTINF:-1,Latino: Starz Family FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27311
+#EXTINF:-1,Latino: Starz FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27310
+#EXTINF:-1,Latino: Starz Kids & Family FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27309
+#EXTINF:-1,Latino: Starz West FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27308
+#EXTINF:-1,Latino: Studio Universal
+http://goldiptv.online:8080/mevlut/mevlut123/27307
+#EXTINF:-1,Latino: Sundance Channel
+http://goldiptv.online:8080/mevlut/mevlut123/27306
+#EXTINF:-1,Latino: Sundance Channel FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27305
+#EXTINF:-1,Latino: Sundance Channel HD
+http://goldiptv.online:8080/mevlut/mevlut123/27304
+#EXTINF:-1,Latino: Syfy
+http://goldiptv.online:8080/mevlut/mevlut123/27303
+#EXTINF:-1,Latino: Syfy FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27302
+#EXTINF:-1,Latino: TBS
+http://goldiptv.online:8080/mevlut/mevlut123/27301
+#EXTINF:-1,Latino: TBS FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27300
+#EXTINF:-1,Latino: TBS HD
+http://goldiptv.online:8080/mevlut/mevlut123/27299
+#EXTINF:-1,Latino: TCM
+http://goldiptv.online:8080/mevlut/mevlut123/27298
+#EXTINF:-1,Latino: Telemundo Internacional
+http://goldiptv.online:8080/mevlut/mevlut123/27297
+#EXTINF:-1,Latino: Telemundo Lampa
+http://goldiptv.online:8080/mevlut/mevlut123/31079
+#EXTINF:-1,Latino: TLC
+http://goldiptv.online:8080/mevlut/mevlut123/27296
+#EXTINF:-1,Latino: TLC FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27295
+#EXTINF:-1,Latino: TLC HD
+http://goldiptv.online:8080/mevlut/mevlut123/27294
+#EXTINF:-1,Latino: TNT
+http://goldiptv.online:8080/mevlut/mevlut123/27293
+#EXTINF:-1,Latino: TNT FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27292
+#EXTINF:-1,Latino: TNT HD
+http://goldiptv.online:8080/mevlut/mevlut123/27291
+#EXTINF:-1,Latino: TNT Series
+http://goldiptv.online:8080/mevlut/mevlut123/27290
+#EXTINF:-1,Latino: TNT Series FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27289
+#EXTINF:-1,Latino: TNT Series HD
+http://goldiptv.online:8080/mevlut/mevlut123/27288
+#EXTINF:-1,Latino: Tooncast
+http://goldiptv.online:8080/mevlut/mevlut123/27287
+#EXTINF:-1,Latino: Tru TV
+http://goldiptv.online:8080/mevlut/mevlut123/27286
+#EXTINF:-1,Latino: Tru TV FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27285
+#EXTINF:-1,Latino: Tru TV HD
+http://goldiptv.online:8080/mevlut/mevlut123/27284
+#EXTINF:-1,Latino: TUDN
+http://goldiptv.online:8080/mevlut/mevlut123/27283
+#EXTINF:-1,Latino: HBO Xtreme
+http://goldiptv.online:8080/mevlut/mevlut123/27282
+#EXTINF:-1,Latino: Ultra Clasico
+http://goldiptv.online:8080/mevlut/mevlut123/27281
+#EXTINF:-1,Latino: Ultra Docu
+http://goldiptv.online:8080/mevlut/mevlut123/27280
+#EXTINF:-1,Latino: Ultra Fiesta
+http://goldiptv.online:8080/mevlut/mevlut123/27279
+#EXTINF:-1,Latino: Ultra Film
+http://goldiptv.online:8080/mevlut/mevlut123/27278
+#EXTINF:-1,Latino: Ultra Tainment
+http://goldiptv.online:8080/mevlut/mevlut123/27277
+#EXTINF:-1,Latino: HBO Mundi HD
+http://goldiptv.online:8080/mevlut/mevlut123/27276
+#EXTINF:-1,Latino: HBO POP HD
+http://goldiptv.online:8080/mevlut/mevlut123/27275
+#EXTINF:-1,Latino: Ultra Mex
+http://goldiptv.online:8080/mevlut/mevlut123/27274
+#EXTINF:-1,Latino: Unicable
+http://goldiptv.online:8080/mevlut/mevlut123/27273
+#EXTINF:-1,Latino: Universal Channel
+http://goldiptv.online:8080/mevlut/mevlut123/27272
+#EXTINF:-1,Latino: Universal Channel FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27271
+#EXTINF:-1,Latino: Universal Channel HD
+http://goldiptv.online:8080/mevlut/mevlut123/27270
+#EXTINF:-1,Latino: Univision
+http://goldiptv.online:8080/mevlut/mevlut123/27269
+#EXTINF:-1,Latino: Vh1
+http://goldiptv.online:8080/mevlut/mevlut123/27268
+#EXTINF:-1,Latino: Vh1 Classic
+http://goldiptv.online:8080/mevlut/mevlut123/27267
+#EXTINF:-1,Latino: Vh1 FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27266
+#EXTINF:-1,Latino: Vh1 HD
+http://goldiptv.online:8080/mevlut/mevlut123/27265
+#EXTINF:-1,Latino: Warner Channel
+http://goldiptv.online:8080/mevlut/mevlut123/27264
+#EXTINF:-1,Latino: Warner Channel FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27263
+#EXTINF:-1,Latino: Warner Channel HD
+http://goldiptv.online:8080/mevlut/mevlut123/27262
+#EXTINF:-1,Latino: Win Sports
+http://goldiptv.online:8080/mevlut/mevlut123/27261
+#EXTINF:-1,Latino: Winsports FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27260
+#EXTINF:-1,Latino: Winsports Plus HD
+http://goldiptv.online:8080/mevlut/mevlut123/27259
+#EXTINF:-1,Latino: WOBI TV
+http://goldiptv.online:8080/mevlut/mevlut123/27258
+#EXTINF:-1,Argentina: 24/7 Noticias
+http://goldiptv.online:8080/mevlut/mevlut123/27184
+#EXTINF:-1,Argentina: A24 FHD*
+http://goldiptv.online:8080/mevlut/mevlut123/27183
+#EXTINF:-1,Argentina: A24 HD*
+http://goldiptv.online:8080/mevlut/mevlut123/27182
+#EXTINF:-1,Argentina: America TV FHD*
+http://goldiptv.online:8080/mevlut/mevlut123/27180
+#EXTINF:-1,Argentina: America TV HD
+http://goldiptv.online:8080/mevlut/mevlut123/27179
+#EXTINF:-1,Argentina: C5N HD*
+http://goldiptv.online:8080/mevlut/mevlut123/27178
+#EXTINF:-1,Argentina: Canal 26 Noticias HD*
+http://goldiptv.online:8080/mevlut/mevlut123/27177
+#EXTINF:-1,Argentina: Canal 4 Esquel
+http://goldiptv.online:8080/mevlut/mevlut123/27176
+#EXTINF:-1,Argentina: Canal 9 Salta
+http://goldiptv.online:8080/mevlut/mevlut123/27175
+#EXTINF:-1,Argentina: CINE.AR HD*
+http://goldiptv.online:8080/mevlut/mevlut123/27174
+#EXTINF:-1,Argentina: CN23 HD*
+http://goldiptv.online:8080/mevlut/mevlut123/27173
+#EXTINF:-1,Argentina: Cronica Television HD*
+http://goldiptv.online:8080/mevlut/mevlut123/27172
+#EXTINF:-1,Argentina: DeporTV FHD*
+http://goldiptv.online:8080/mevlut/mevlut123/27171
+#EXTINF:-1,Argentina: DeporTV HD*
+http://goldiptv.online:8080/mevlut/mevlut123/27170
+#EXTINF:-1,Argentina: El Garage TV HD
+http://goldiptv.online:8080/mevlut/mevlut123/27169
+#EXTINF:-1,Argentina: El Nueve FHD*
+http://goldiptv.online:8080/mevlut/mevlut123/27168
+#EXTINF:-1,Argentina: El Nueve HD*
+http://goldiptv.online:8080/mevlut/mevlut123/27167
+#EXTINF:-1,Argentina: El Rural HD*
+http://goldiptv.online:8080/mevlut/mevlut123/27166
+#EXTINF:-1,Argentina: El trece FHD*
+http://goldiptv.online:8080/mevlut/mevlut123/27165
+#EXTINF:-1,Argentina: El trece HD*
+http://goldiptv.online:8080/mevlut/mevlut123/27164
+#EXTINF:-1,Argentina: Fox Sports 1
+http://goldiptv.online:8080/mevlut/mevlut123/27162
+#EXTINF:-1,Argentina: Fox Sports 2
+http://goldiptv.online:8080/mevlut/mevlut123/27161
+#EXTINF:-1,Argentina: Fox Sports Premium FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27160
+#EXTINF:-1,Argentina: Fox Sports Premium HD
+http://goldiptv.online:8080/mevlut/mevlut123/27159
+#EXTINF:-1,Argentina: LN Mas HD*
+http://goldiptv.online:8080/mevlut/mevlut123/27158
+#EXTINF:-1,Argentina: Net TV FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27157
+#EXTINF:-1,Argentina: Net TV HD
+http://goldiptv.online:8080/mevlut/mevlut123/27156
+#EXTINF:-1,Argentina: Telefe FHD*
+http://goldiptv.online:8080/mevlut/mevlut123/27152
+#EXTINF:-1,Argentina: Telefe HD*
+http://goldiptv.online:8080/mevlut/mevlut123/27151
+#EXTINF:-1,Argentina: Telemax
+http://goldiptv.online:8080/mevlut/mevlut123/27150
+#EXTINF:-1,Argentina: Television Publica FHD*
+http://goldiptv.online:8080/mevlut/mevlut123/27149
+#EXTINF:-1,Argentina: Television Publica HD*
+http://goldiptv.online:8080/mevlut/mevlut123/27148
+#EXTINF:-1,Argentina: TN Buenos Aires
+http://goldiptv.online:8080/mevlut/mevlut123/27147
+#EXTINF:-1,Argentina: TNT Sports HD
+http://goldiptv.online:8080/mevlut/mevlut123/27146
+#EXTINF:-1,Argentina: TR Telered
+http://goldiptv.online:8080/mevlut/mevlut123/27145
+#EXTINF:-1,Argentina: Trece Max HD
+http://goldiptv.online:8080/mevlut/mevlut123/27144
+#EXTINF:-1,Argentina: TyC Sports FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27143
+#EXTINF:-1,Argentina: TyC Sports HD
+http://goldiptv.online:8080/mevlut/mevlut123/27142
+#EXTINF:-1,Argentina: TyC Sports Internacional
+http://goldiptv.online:8080/mevlut/mevlut123/27141
+#EXTINF:-1,Bolivia: Tigo Sports 1
+http://goldiptv.online:8080/mevlut/mevlut123/34690
+#EXTINF:-1,Bolivia: Tigo Sports 2
+http://goldiptv.online:8080/mevlut/mevlut123/34691
+#EXTINF:-1,Bolivia: Tigo Sports 3
+http://goldiptv.online:8080/mevlut/mevlut123/34692
+#EXTINF:-1,Bolivia: PAT Plus
+http://goldiptv.online:8080/mevlut/mevlut123/27096
+#EXTINF:-1,Bolivia: ATB
+http://goldiptv.online:8080/mevlut/mevlut123/27095
+#EXTINF:-1,Bolivia: Bolivia TV
+http://goldiptv.online:8080/mevlut/mevlut123/27094
+#EXTINF:-1,Bolivia: Bolivision
+http://goldiptv.online:8080/mevlut/mevlut123/27093
+#EXTINF:-1,Bolivia: Bolivision HD
+http://goldiptv.online:8080/mevlut/mevlut123/27092
+#EXTINF:-1,Bolivia: Bolivision La Paz
+http://goldiptv.online:8080/mevlut/mevlut123/27091
+#EXTINF:-1,Bolivia: Bolivia TV Deportes
+http://goldiptv.online:8080/mevlut/mevlut123/27090
+#EXTINF:-1,Bolivia: Cadena A
+http://goldiptv.online:8080/mevlut/mevlut123/27089
+#EXTINF:-1,Bolivia: Gigavision
+http://goldiptv.online:8080/mevlut/mevlut123/27088
+#EXTINF:-1,Bolivia: Ebo TV
+http://goldiptv.online:8080/mevlut/mevlut123/27087
+#EXTINF:-1,Bolivia: Mega TV
+http://goldiptv.online:8080/mevlut/mevlut123/27085
+#EXTINF:-1,Bolivia: Rec Online
+http://goldiptv.online:8080/mevlut/mevlut123/27084
+#EXTINF:-1,Bolivia: GigaVision
+http://goldiptv.online:8080/mevlut/mevlut123/27083
+#EXTINF:-1,Bolivia: Red Pat La Paz
+http://goldiptv.online:8080/mevlut/mevlut123/27082
+#EXTINF:-1,Bolivia: RTP
+http://goldiptv.online:8080/mevlut/mevlut123/27081
+#EXTINF:-1,Bolivia: Rtve
+http://goldiptv.online:8080/mevlut/mevlut123/27080
+#EXTINF:-1,Bolivia: TV UNIVERSITARIA
+http://goldiptv.online:8080/mevlut/mevlut123/27079
+#EXTINF:-1,Bolivia: Tv Latinoa
+http://goldiptv.online:8080/mevlut/mevlut123/27078
+#EXTINF:-1,Bolivia: TV U
+http://goldiptv.online:8080/mevlut/mevlut123/27077
+#EXTINF:-1,Bolivia: Unitel Santa Cruz
+http://goldiptv.online:8080/mevlut/mevlut123/27076
+#EXTINF:-1,Bolivia: XTO TV
+http://goldiptv.online:8080/mevlut/mevlut123/27075
+#EXTINF:-1,Chile: 13C HD
+http://goldiptv.online:8080/mevlut/mevlut123/27120
+#EXTINF:-1,Chile: 13i HD
+http://goldiptv.online:8080/mevlut/mevlut123/27119
+#EXTINF:-1,Chile: 24 Horas
+http://goldiptv.online:8080/mevlut/mevlut123/27118
+#EXTINF:-1,Chile: Canal 13 HD
+http://goldiptv.online:8080/mevlut/mevlut123/27117
+#EXTINF:-1,Chile: TNT Sport 2
+http://goldiptv.online:8080/mevlut/mevlut123/27116
+#EXTINF:-1,Chile: TNT Sport 3
+http://goldiptv.online:8080/mevlut/mevlut123/27115
+#EXTINF:-1,Chile: TNT Sport HD
+http://goldiptv.online:8080/mevlut/mevlut123/27114
+#EXTINF:-1,Chile: CDO Premium HD
+http://goldiptv.online:8080/mevlut/mevlut123/27112
+#EXTINF:-1,Chile: Chilevision
+http://goldiptv.online:8080/mevlut/mevlut123/27111
+#EXTINF:-1,Chile: Chilevision HD
+http://goldiptv.online:8080/mevlut/mevlut123/27110
+#EXTINF:-1,Chile: CNN HD
+http://goldiptv.online:8080/mevlut/mevlut123/27109
+#EXTINF:-1,Chile: Etc TV
+http://goldiptv.online:8080/mevlut/mevlut123/27107
+#EXTINF:-1,Chile: Fox Sports HD
+http://goldiptv.online:8080/mevlut/mevlut123/27106
+#EXTINF:-1,Chile: La Red HD
+http://goldiptv.online:8080/mevlut/mevlut123/27105
+#EXTINF:-1,Chile: Mega HD
+http://goldiptv.online:8080/mevlut/mevlut123/27104
+#EXTINF:-1,Chile: Rec TV
+http://goldiptv.online:8080/mevlut/mevlut123/27102
+#EXTINF:-1,Chile: Teletrak
+http://goldiptv.online:8080/mevlut/mevlut123/27100
+#EXTINF:-1,Chile: TV Chile FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27099
+#EXTINF:-1,Chile: UCV 3
+http://goldiptv.online:8080/mevlut/mevlut123/27098
+#EXTINF:-1,Chile: TVN HD
+http://goldiptv.online:8080/mevlut/mevlut123/27097
+#EXTINF:-1,Ecuador: Teleamazonas FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27052
+#EXTINF:-1,Ecuador: Canal Uno
+http://goldiptv.online:8080/mevlut/mevlut123/27051
+#EXTINF:-1,Ecuador: Canal Uno HD
+http://goldiptv.online:8080/mevlut/mevlut123/27050
+#EXTINF:-1,Ecuador: Canela TV
+http://goldiptv.online:8080/mevlut/mevlut123/27049
+#EXTINF:-1,Ecuador: DIRECTV Sports FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27046
+#EXTINF:-1,Ecuador: DIRECTV Sports 2 HD
+http://goldiptv.online:8080/mevlut/mevlut123/27045
+#EXTINF:-1,Ecuador: DIRECTV Sports Plus
+http://goldiptv.online:8080/mevlut/mevlut123/27044
+#EXTINF:-1,Ecuador: Ecuador TV
+http://goldiptv.online:8080/mevlut/mevlut123/27043
+#EXTINF:-1,Ecuador: Ecuador TV HD
+http://goldiptv.online:8080/mevlut/mevlut123/27042
+#EXTINF:-1,Ecuador: Ecuavisa
+http://goldiptv.online:8080/mevlut/mevlut123/27041
+#EXTINF:-1,Ecuador: Ecuavisa FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27040
+#EXTINF:-1,Ecuador: El Canal del Futbol
+http://goldiptv.online:8080/mevlut/mevlut123/27039
+#EXTINF:-1,Ecuador: Gamavision HD
+http://goldiptv.online:8080/mevlut/mevlut123/27038
+#EXTINF:-1,Ecuador: Gol TV
+http://goldiptv.online:8080/mevlut/mevlut123/27037
+#EXTINF:-1,Ecuador: Gol TV FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27036
+#EXTINF:-1,Ecuador: Oromar Television HD
+http://goldiptv.online:8080/mevlut/mevlut123/27035
+#EXTINF:-1,Ecuador: RTS
+http://goldiptv.online:8080/mevlut/mevlut123/27034
+#EXTINF:-1,Ecuador: RTS HD
+http://goldiptv.online:8080/mevlut/mevlut123/27033
+#EXTINF:-1,Ecuador: TC Television
+http://goldiptv.online:8080/mevlut/mevlut123/27032
+#EXTINF:-1,Ecuador: TC Television FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27031
+#EXTINF:-1,Ecuador: Teleamazonas
+http://goldiptv.online:8080/mevlut/mevlut123/27030
+#EXTINF:-1,Ecuador: Teleamazonas FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27029
+#EXTINF:-1,Ecuador: Televicentro TVC
+http://goldiptv.online:8080/mevlut/mevlut123/27028
+#EXTINF:-1,Colombia: Cable Noticias
+http://goldiptv.online:8080/mevlut/mevlut123/27664
+#EXTINF:-1,Colombia: Cable Noticias FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27663
+#EXTINF:-1,Colombia: Cable Noticias HD
+http://goldiptv.online:8080/mevlut/mevlut123/27662
+#EXTINF:-1,Colombia: Canal Tro
+http://goldiptv.online:8080/mevlut/mevlut123/27661
+#EXTINF:-1,Colombia: Canal Capital HD
+http://goldiptv.online:8080/mevlut/mevlut123/27660
+#EXTINF:-1,Colombia: Canal Internacional HD
+http://goldiptv.online:8080/mevlut/mevlut123/27659
+#EXTINF:-1,Colombia: Canal Une HD
+http://goldiptv.online:8080/mevlut/mevlut123/27658
+#EXTINF:-1,Colombia: Cantinazo
+http://goldiptv.online:8080/mevlut/mevlut123/27657
+#EXTINF:-1,Colombia: Caracol
+http://goldiptv.online:8080/mevlut/mevlut123/27656
+#EXTINF:-1,Colombia: Caracol FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27655
+#EXTINF:-1,Colombia: Caracol HD
+http://goldiptv.online:8080/mevlut/mevlut123/27654
+#EXTINF:-1,Colombia: Caracol HD2
+http://goldiptv.online:8080/mevlut/mevlut123/27653
+#EXTINF:-1,Colombia: Caracol Internacional
+http://goldiptv.online:8080/mevlut/mevlut123/27652
+#EXTINF:-1,Colombia: City Tv HD
+http://goldiptv.online:8080/mevlut/mevlut123/27651
+#EXTINF:-1,Colombia: Cosmovision
+http://goldiptv.online:8080/mevlut/mevlut123/27650
+#EXTINF:-1,Colombia: Dia TV
+http://goldiptv.online:8080/mevlut/mevlut123/27649
+#EXTINF:-1,Colombia: El Tiempo HD
+http://goldiptv.online:8080/mevlut/mevlut123/27648
+#EXTINF:-1,Colombia: La Kalle HD
+http://goldiptv.online:8080/mevlut/mevlut123/27647
+#EXTINF:-1,Colombia: NTN24
+http://goldiptv.online:8080/mevlut/mevlut123/27646
+#EXTINF:-1,Colombia: RCN HD
+http://goldiptv.online:8080/mevlut/mevlut123/27645
+#EXTINF:-1,Colombia: RCN Novelas
+http://goldiptv.online:8080/mevlut/mevlut123/27644
+#EXTINF:-1,Colombia: RCN Nuestra Tele
+http://goldiptv.online:8080/mevlut/mevlut123/27643
+#EXTINF:-1,Colombia: Studio Universal
+http://goldiptv.online:8080/mevlut/mevlut123/27642
+#EXTINF:-1,Colombia: Senal Colombia
+http://goldiptv.online:8080/mevlut/mevlut123/27641
+#EXTINF:-1,Colombia: Tacho Pistacho HD
+http://goldiptv.online:8080/mevlut/mevlut123/27640
+#EXTINF:-1,Colombia: Teleamiga
+http://goldiptv.online:8080/mevlut/mevlut123/27639
+#EXTINF:-1,Colombia: TeleAntioquia
+http://goldiptv.online:8080/mevlut/mevlut123/27638
+#EXTINF:-1,Colombia: Telecafe
+http://goldiptv.online:8080/mevlut/mevlut123/27637
+#EXTINF:-1,Colombia: Telecaribe Deportes FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27636
+#EXTINF:-1,Colombia: Telecaribe FHD
+http://goldiptv.online:8080/mevlut/mevlut123/27635
+#EXTINF:-1,Colombia: Telemedellin
+http://goldiptv.online:8080/mevlut/mevlut123/27634
+#EXTINF:-1,Colombia: Telepacifico
+http://goldiptv.online:8080/mevlut/mevlut123/27633
+#EXTINF:-1,Colombia: TeleVid 
+http://goldiptv.online:8080/mevlut/mevlut123/27632
+#EXTINF:-1,Colombia: Trece HD
+http://goldiptv.online:8080/mevlut/mevlut123/27631
+#EXTINF:-1,VIP AR: Bein Sport English FHD1 P50
+http://goldiptv.online:8080/mevlut/mevlut123/68099
+#EXTINF:-1,VIP AR: Bein Sport English FHD2 P50
+http://goldiptv.online:8080/mevlut/mevlut123/68100
+#EXTINF:-1,VIP AR: Bein Sport English FHD3 P50
+http://goldiptv.online:8080/mevlut/mevlut123/68110
+#EXTINF:-1,D| beIN Sports en Español FHD
+http://nmstreaming.us:25461/COFRAS/683ehXxVHS/10929
